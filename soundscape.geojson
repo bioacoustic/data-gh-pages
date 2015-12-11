@@ -1,0 +1,2654 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEBBCR",
+                "Site_Name": "Bar BC Ranch (GRTEBBCR)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "31 Aug-6 Sep 2005",
+                "Habitat": "Sage Brush",
+                "Lmin": "21.8 dBA",
+                "Lmax": "76.2 dBA",
+                "Max_ID": "Propeller Plane",
+                "Photo1": "GRTEBBCR_south.jpg",
+                "Photo2": "GRTEBBCR_west.jpg",
+                "Acoustic_Summary": "Bar BC Ranch is a sage brush dominated location on the banks of the Snake River. The rapids on the Snake River are generally audible. Wind picks up in the summer afternoons along with insect activity. Birds are also frequently heard. This area is directly under the flight path of aircraft approaching the Jackson Hole Airport from the north.",
+                "Days": "7",
+                "Hours": "141",
+                "Sound_Level_All": "L90=33.8 dBA, L50=35.9 dBA, L10=38.4 dBA, Leq=39.2 dBA",
+                "Sound_Level_Day": "L90=30.5 dBA, L50=33.9 dBA, L10=39.1 dBA, Leq=42.0 dBA",
+                "Photo1_Caption": "Site in burnt pines; photo looking south",
+                "Photo2_Caption": "Site in burnt pines; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.695564,
+                    43.692741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEBEC2",
+                "Site_Name": "Beaver Creek 2 (GRTEBEC2)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "24-29 Aug 2007",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<16.0 dBA",
+                "Lmax": "71.9 dBA",
+                "Max_ID": "Red Squirrel",
+                "Photo1": "GRTEBEC2.jpg",
+                "Acoustic_Summary": "At this backcountry site natural sounds predominate. Distant rushing water flowing out of the Teton Mountain Range can be heard during calm periods and wind in the trees is a common sound. Aircraft noise from the Jackson Hole Airport can often be heard from the southeast, and occasional sounds of human-activity can be heard from the nearby park housing area.",
+                "Days": "6",
+                "Hours": "120",
+                "Sound_Level_All": "L90=24.0 dBA, L50=27.8 dBA, L10=34.7 dBA, Leq=32.8 dBA",
+                "Sound_Level_Day": "L90=26.7 dBA, L50=31.2 dBA, L10=38.9 dBA, Leq=36.5 dBA",
+                "Photo1_Caption": "Site in regenerating pines; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.740137,
+                    43.685601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEBECR",
+                "Site_Name": "Beaver Creek (GRTEBECR)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "7-29 Mar 2006",
+                "Habitat": "Open Conifer Forest and Housing Area",
+                "Lmin": "<18.2 dBA",
+                "Lmax": "81.5 dBA",
+                "Max_ID": "Splitting Firewood",
+                "Photo1": "GRTEBECR.jpg",
+                "Acoustic_Summary": "Adjacent to residential housing, sounds from building utilities and people activity were often heard. At night natural sounds predominated.",
+                "Days": "23",
+                "Hours": "541",
+                "Sound_Level_All": "L90=33.8 dBA, L50=35.9 dBA, L10=38.4 dBA, Leq=39.2 dBA",
+                "Sound_Level_Day": "L90=30.5 dBA, L50=33.9 dBA, L10=39.1 dBA, Leq=42.0 dBA",
+                "Photo1_Caption": "Site in residential area; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73689,
+                    43.687546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEBTBU",
+                "Site_Name": "Blacktail Butte Southeast (GRTEBTBU)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "8-10 Feb 2003",
+                "Habitat": "Sage Brush",
+                "Lmin": "24.7 dBA",
+                "Lmax": "78.4 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "GRTEBTBU.jpg",
+                "Acoustic_Summary": "Only three windy winter days were sampled at this early monitoring site in the sage brush flats south of Blacktail Butte. Vehicles on the Gros Ventre Road and aircraft flying overhead and at the Jackson Hole Airport were audible. See nearby GRTEGVCE for more details of this general area.",
+                "Days": "4",
+                "Hours": "92",
+                "Sound_Level_All": "L90=32.8 dBA, L50=36.7 dBA, L10=44.3 dBA, Leq=44.6 dBA",
+                "Sound_Level_Day": "L90=34.6 dBA, L50=44.2 dBA, L10=53.6 dBA, Leq=50.2 dBA",
+                "Photo1_Caption": "Site in swale south of Blacktail Butte; photo looking northwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.67137,
+                    43.62522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTECABA",
+                "Site_Name": "Catholic Bay (GRTECABA)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "28 Jan-19 May 2005",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "<20.1 dBA",
+                "Lmax": "84.3 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTECCNF.jpg",
+                "Acoustic_Summary": "Sampling at this site spanned winter and spring. The site was in the backyard of the historic Brinkerhoff House in an aspen grove near the shore of Jackson Lake. At night and during calm periods silence predominated, especially during the winter.",
+                "Days": "111",
+                "Hours": "2650",
+                "All_Hours": "Silence (48%), All non-natural sounds (35%), All natural sources (24%), Unknown motor sounds (14%), Wind (11%), People (9%), Road vehicles (6%), Bird (8%), Aircraft (8%), Mammals (4%), Snow plows (3%)",
+                "Sound_Level_All": "L90=21.0 dBA, L50=21.9 dBA, L10=28.6 dBA, Leq=29.8 dBA",
+                "Sound_Level_Day": "L90=21.6 dBA, L50=24.1 dBA, L10=33.4 dBA, Leq=33.7 dBA",
+                "Photo1_Caption": "Site near shore; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.593315,
+                    43.851539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTECBLD",
+                "Site_Name": "Colter Bay Landing (GRTECBLD)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "18-27 Mar 2004",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "<20.7 dBA",
+                "Lmax": "77.2 dBA",
+                "Max_ID": "Snowmobile",
+                "Photo1": "GRTECBLD.jpg",
+                "Acoustic_Summary": "This winter site was located near the snowmobile access point for Jackson Lake and in a small stand of aspens on the lakeshore. Along with winter silence, sounds included snowmobiles and sounds from road vehicles. See nearby GRTECBPA for more details of the soundscape of this general area.",
+                "Days": "9",
+                "Hours": "212",
+                "Sound_Level_All": "L90=21.1 dBA, L50=21.8 dBA, L10=27.0 dBA, Leq=26.5 dBA",
+                "Sound_Level_Day": "L90=21.3 dBA, L50=23.1 dBA, L10=30.5 dBA, Leq=29.9 dBA",
+                "Photo1_Caption": "Site at edge of Jackson Lake in trees; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64708,
+                    43.90723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTECBPA",
+                "Site_Name": "Colter Bay Picnic Area (GRTECBPA)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "9 Feb-13 May 2005",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "<20.5 dBA",
+                "Lmax": "88.5 dBA",
+                "Max_ID": "Coyote",
+                "Photo1": "GRTECBPA.jpg",
+                "Acoustic_Summary": "This site collected data from late winter into spring. Silence was the most predominant ‘sound’, but wind and people's voices during the day were often heard.",
+                "Days": "93",
+                "Hours": "2217",
+                "All_Hours": "Silence (33%), All natural sources (30%), All non-natural sounds (29%), Wind (21%), People (11%), Unknown motor sounds (8%),  Bird (7%), Aircraft (7%)",
+                "Sound_Level_All": "L90=21.3 dBA, L50=21.7 dBA, L10=26.0 dBA, Leq=26.2 dBA",
+                "Sound_Level_Day": "L90=21.4 dBA, L50=22.6 dBA, L10=30.2 dBA, Leq=29.6 dBA",
+                "Photo1_Caption": "Site under tree near summer picnic area; photo looking northwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.647391,
+                    43.907832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTECBPL",
+                "Site_Name": "Colter Bay Picnic Loop (GRTECBPL)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "2-5 Jan 2003",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "<12.7 dBA",
+                "Lmax": "96.3 dBA",
+                "Max_ID": "Rotary Snowplow",
+                "Photo1": "GRTECBLP.jpg",
+                "Acoustic_Summary": "One of the earliest monitoring sites in Grand Teton, data were collected for only four days. The monitor was only a few feet from the end of the lake access road so the loudest sounds were from the occasion vehicles using the road. When calm and especially at night, the area was very quiet.",
+                "Days": "4",
+                "Hours": "75",
+                "Sound_Level_All": "L90=14.5 dBA, L50=17.0 dBA, L10=22.6 dBA, Leq=23.8 dBA",
+                "Sound_Level_Day": "L90=14.7 dBA, L50=18.5 dBA, L10=27.8 dBA, Leq=28.6 dBA",
+                "Photo1_Caption": "Site just off turnaround loop; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64636,
+                    43.908343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTECCNF",
+                "Site_Name": "Cascade Canyon North Fork (GRTECCNF)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "1-8 Aug 2005",
+                "Habitat": "Conifer Forest",
+                "Lmin": "42.2 dBA",
+                "Lmax": "79.5 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTECABA.jpg",
+                "Acoustic_Summary": "The rushing waters of Cascade Creek dominated the soundscape of this narrow canyon. The flowing water sounds were loud enough to obscure most distant or quiet sounds. Birds were the only other sound source audible for more than 10% of the time.",
+                "Days": "7",
+                "Hours": "160",
+                "All_Hours": "All natural sources (100%), Flowing water (100%), Bird (19%), All non-natural sounds (5%), Insect (4%), Aircraft (3%), People (2%)",
+                "Sound_Level_All": "L90=45.2 dBA, L50=45.4 dBA, L10=45.7 dBA, Leq=45.4 dBA",
+                "Sound_Level_Day": "L90=45.2 dBA, L50=45.4 dBA, L10=45.7 dBA, Leq=45.4 dBA",
+                "Photo1_Caption": "Site next to large glacial erratic; photo looking northeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81828,
+                    43.76822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEFLSO",
+                "Site_Name": "Flagg Ranch South (GRTEFRSO)",
+                "Unit_Code": "JODR",
+                "Season": "Winter",
+                "Year": "2-6 Jan 2003",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<20.2 dBA",
+                "Lmax": "65.3 dBA",
+                "Max_ID": "Propeller Plane",
+                "Photo1": "GRTEFLSO.jpg",
+                "Acoustic_Summary": "As one of the earliest monitoring sites in Grand Teton, data were collected for only five days. The monitor was a hundred feet from the main road so other than a low-flying propeller plane, the loudest sounds were from the vehicles using the road.",
+                "Days": "4",
+                "Hours": "92",
+                "Sound_Level_All": "L90=20.9 dBA, L50=21.3 dBA, L10=23.1 dBA, Leq=24.1 dBA",
+                "Sound_Level_Day": "L90=20.7 dBA, L50=21.2 dBA, L10=25.4 dBA, Leq=27.3 dBA",
+                "Photo1_Caption": "Site 100 feet from road; photo looking southwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.672896,
+                    44.090809
+                ]
+            }
+        },
+        {
+             "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEGC3M",
+                "Site_Name": "Garnet Canyon 3 Mile (GRTEGC3M)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "10 Jul-10 Aug 2015",
+                "Habitat": "Mountainside open conifer forest",
+                "Lmin": "~11 dBA",
+                "Lmax": "~82 dBA",
+                "Max_ID": "",
+                "Photo1": "",
+                "Acoustic_Summary": "This site just off a trail on the mountainside overlooking Jackson Hole, was distant from cascading streams, and nearby roads. Common, but distant sounds were from road traffic on the park road below, and from aircraft, both high fliers and those visiting the Jackson Hole Airport. Birds, people’s voices, wind, and distant flowing water was also audible. Overall, this was a quiet location.",
+                "Days": "30",
+                "Hours": "745",
+                "Sound_Level_All": "L90=19.4 dBA, L50=20.3 dBA, L10=23.6 dBA, Leq=26.5 dBA",
+                "Sound_Level_Day": "L90=19.6 dBA, L50=20.6 dBA, L10=23.8 dBA, Leq=27.8 dBA",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76582,
+                    43.72505
+                ]
+            }
+        },
+        { 
+              "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEGCMD",
+                "Site_Name": "Garnet Canyon Meadow (GRTEGCMD)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "20 Jul-9 Aug 2015",
+                "Habitat": "High alpine mixed scree",
+                "Lmin": "~45 dBA",
+                "Lmax": "~86 dBA",
+                "Max_ID": "",
+                "Photo1": "",
+                "Acoustic_Summary": "This site was located adjacent to a visitor survey sampling location. The nearby cascading creek dominated the soundscape here high in the Tetons. Climbers, pikas, and birds were also audible",
+                "Days": "20",
+                "Hours": "485",
+                "Sound_Level_All": "L90=48.2 dBA, L50=48.7 dBA, L10=49.2 dBA, Leq=48.8 dBA",
+                "Sound_Level_Day": "L90=47.9 dBA, L50=48.2 dBA, L10=48.8 dBA, Leq=49.0 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.78922,
+                    43.72573
+                ]
+            }
+        },
+        { 
+"type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEGLR2",
+                "Site_Name": "Grassy Lake Road 2 (GRTEGLR2)",
+                "Unit_Code": "JODR",
+                "Season": "Winter",
+                "Year": "28-7 Feb 2011",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<15 dBA",
+                "Lmax": "~90.4 dBA",
+                "Max_ID": "2-Stroke Snowmobile",
+                "Photo1": "GRTEGLR2.jpg",
+                "Acoustic_Summary": "Adjacent to the occasionally groomed Grassy Lake Road, this site collected data for 12 days during the winter. This very quiet soundscape was occasionally interrupted by nearby snowmobiles and high flying jets.",
+                "Days": "12",
+                "Hours": "255",
+                "Sound_Level_All": "L90~15.9 dBA, L50~16.7 dBA, L10~21.2 dBA, Leq~23.4 dBA",
+                "Sound_Level_Day": "L90~16.4 dBA, L50~18.7 dBA, L10~25.2 dBA, Leq~26.8 dBA",
+                "Photo1_Caption": "Site down the trail in thick forest; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73771,
+                    44.09944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEGRLR",
+                "Site_Name": "Grassy Lake Road (GRTEGRLR)",
+                "Unit_Code": "JODR",
+                "Season": "Multiple",
+                "Year": "4 Jan-24 May 005",
+                "Habitat": "Meadow",
+                "Lmin": "<20.3 dBA",
+                "Lmax": "95.0 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEGRLR.jpg",
+                "Acoustic_Summary": "The sounds of this site include distant motors including road vehicles and oversnow vehicles in and around Flagg Ranch. Silence was common followed by the sound of wind in the trees.",
+                "Days": "120",
+                "Hours": "2864",
+                "All_Hours": "All non-natural sources (24%), All natural sources (54%), Silence (29%), Wind (12%), Unknown motor (11%), Aircraft (7%), Bird (4%), Oversnow vehicles (3%)",
+                "Sound_Level_All": "L90=23.0 dBA, L50=24.6 dBA, L10=28.0 dBA, Leq=28.3 dBA",
+                "Sound_Level_Day": "L90=22.7 dBA, L50=25.2 dBA, L10=31.8 dBA, Leq=32.4 dBA",
+                "Photo1_Caption": "Site at edge of large meadow; photo looking east-southeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69121,
+                    44.09539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEHQOF",
+                "Site_Name": "Headquarters Office (GRTEHQOF)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "8 May 2007-18 Aug 2010",
+                "Habitat": "Developed",
+                "Lmin": "23.2 dBA",
+                "Lmax": "97.6 dBA",
+                "Max_ID": "Military Jet",
+                "Photo1": "GRTEHQOF.jpg",
+                "Acoustic_Summary": "On the roof of an office trailer at park headquarters, non-natural sounds dominated this site. However, surprisingly the sounds of birds and flowing water joined with wind and rain as common natural sound sources.",
+                "Days": "1057",
+                "Hours": "25349",
+                "All_Hours": "All non-natural sounds (92%), All natural sources (67%), Road vehicles (52%), Building utilities (48%), Bird (31%), Wind (23%), Flowing water (21%), Snowfall or rain (16%), People (7%), Aircraft (3%)",
+                "Sound_Level_All": "L90=38.3 dBA, L50=40.9 dBA, L10=45.1 dBA, Leq=46.6 dBA",
+                "Sound_Level_Day": "L90=39.7 dBA, L50=43.0 dBA, L10=48.7 dBA, Leq=50.6 dBA",
+                "Photo1_Caption": "Site on office trailer; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.715938,
+                    43.655434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEHUBA",
+                "Site_Name": "Hunter Barn (GRTEHUBA)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "31 Jul-8 Aug 2008",
+                "Habitat": "Sage Brush",
+                "Lmin": "<17.4 dBA",
+                "Lmax": "82.0 dBA",
+                "Max_ID": "Bird",
+                "Photo1": "GRTEHUBA_west.jpg",
+                "Acoustic_Summary": "Located in an area of sage brush and grasses, it was only the tangle of downed tree trunks that kept bison from coming too close to the equipment. Bison grunts were often heard along with wind, birds, and insects. Distant road vehicles and aircraft were also regularly audible.",
+                "Days": "9",
+                "Hours": "187",
+                "All_Hours": "All natural sources (90%), Wind (54%), All non-natural sounds (42%), Bird (34%), Insect (32%), Road vehicles (20%), Aircraft (14%), Mammal (13%), Rain (3%)",
+                "Sound_Level_All": "L90=22.5 dBA, L50=26.4 dBA, L10=33.0 dBA, Leq=31.7 dBA",
+                "Sound_Level_Day": "L90=25.1 dBA, L50=30.2 dBA, L10=38.0 dBA, Leq=37.5 dBA",
+                "Photo1_Caption": "Site in deadfall; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.61777,
+                    43.67464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJEHT",
+                "Site_Name": "Jenny Lake Horse Trail (GRTEJLHT)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "1-28 Aug 2012",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "33.6 dBA",
+                "Lmax": "79.0 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEJEHT.jpg",
+                "Acoustic_Summary": "Adjacent to a small stream, the soundscape was dominated by the sounds of flowing water. Birds and the sounds from the Jenny Lake Boating shuttle were also frequent sounds sources.",
+                "Days": "28",
+                "Hours": "646",
+                "All_Hours": "All natural sources (100%), Flowing water (96%), All non-natural sounds (34%), Bird (30%), Watercraft (26%), Wind (6%), Mammal (4%), Unknown motor (4%), Aircraft (3%), Insect (2%)",
+                "Sound_Level_All": " L90=38.7 dBA, L50=39.1 dBA, L10=40.6 dBA, Leq=39.7 dBA ",
+                "Sound_Level_Day": " L90=38.2 dBA, L50=38.8 dBA, L10=40.7 dBA, Leq=39.7 dBA ",
+                "Photo1_Caption": "Site in forest; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.74652,
+                    43.76925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJHAL",
+                "Site_Name": "Jackson Hole Airport Lek (GRTEJHAL)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "30 Mar-20 Jun 2006, 27 Mar-3 Jun 2013",
+                "Habitat": "Sage Brush",
+                "Lmin": "<22.1 dBA",
+                "Lmax": "107.3 dBA",
+                "Max_ID": "Jet",
+                "Photo1": "GRTEJHAL_northwest.jpg",
+                "Photo2": "GRTEJHAL_south.jpg",
+                "Acoustic_Summary": "This site was in an unusual site location just off the north end of the Jackson Hole Airport runway near a Sage Grouse lek. As expected birds, not only Sage Grouse, were regularly heard along with wind and aircraft. Many of the unidentified motor sounds were from ground operations of the airport but also road vehicles on the highway.",
+                "Days": "139",
+                "Hours": "3323",
+                "All_Hours": "All non-natural sounds (87%), All natural sources (69%), Unknown motor (56%), Bird (48%), Wind (32%), Aircraft (22%), Road vehicles (15%), Rain (5%), Insect (3%)",
+                "Sound_Level_All": "L90=28.8 dBA, L50=32.0 dBA, L10=41.2 dBA, Leq=53.7 dBA",
+                "Sound_Level_Day": "L90=29.7 dBA, L50=34.0 dBA, L10=49.9 dBA, Leq=62.4 dBA",
+                "Photo1_Caption": "Site near approach landing lights; photo looking east",
+                "Photo2_Caption": "Site near north end of runway; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.733204,
+                    43.616516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJLBH",
+                "Site_Name": "Jenny Lake Boat House (GRTEJLBH)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "9-30 May 2014",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<15 dBA",
+                "Lmax": "~57 dBA",
+                "Max_ID": "Red Squirrel",
+                "Photo1": "",
+                "Photo2": "",
+                "Acoustic_Summary": "The monitoring equipment at this site collected only digital recordings that were then processed to estimate sound levels. Snow was still deep at the beginning of the sampling period, but visitor activity increased during the month. Silence was still the most common ‘sound.",
+                "Days": "21",
+                "Hours": "505",
+                "All_Hours": "Silence (62%), All natural sounds (26%), All non-natural sounds (13%), Wind (12%), Waves (9%), Helicopter (5%), Aircraft (5%), Birds (4%), All watercraft (2%)",
+                "Sound_Level_All": "L90~17.1 dBA, L50~17.8 dBA, L10~19.4 dBA, Leq~18.5 dBA",
+                "Sound_Level_Day": "L90~17.2 dBA, L50~18.1 dBA, L10~21.5 dBA, Leq~20.1 dBA",
+                "Photo1_Caption": "",
+                "Photo2_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.72684,
+                    43.75165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJLCI",
+                "Site_Name": "Jackson Lake Cow Island (GRTEJLCI)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "15 Feb 2005-27 Jul 2006",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<17.6 dBA",
+                "Lmax": "87.5 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEJLCI_summer.jpg",
+                "Photo2": "GRTEJLCI_winter.jpg",
+                "Acoustic_Summary": "This site was on a small island just off of Leek's Marina. Birds, waves, wind and silence were the most common sounds heard. Motorboats, aircraft, and unidentified motors were heard regularly during the non-winter months. Snowmobiles, ice augers, and aircraft were audible during the winter.",
+                "Days": "417",
+                "Hours": "9992",
+                "All_Hours": "All natural sounds (70%), All non-natural sounds (34%), Birds (31%), Waves (29%), Wind (20%), Silence (19%), Unknown motor sounds (13%), Watercraft (10%), Aircraft (6%), Road vehicles (4%), Snowfall or rain (3%), People’s Voices (3%), Insects (3%)",
+                "Sound_Level_All": "L90=23.8 dBA, L50=26.9 dBA, L10=32.8 dBA, Leq=31.5 dBA",
+                "Sound_Level_Day": "L90=24.1 dBA, L50=28.2 dBA, L10=35.9 dBA, Leq=34.3 dBA",
+                "Photo1_Caption": "Site at edge of water; photo looking southwest",
+                "Photo2_Caption": "Site at edge of lake; photo looking southwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.64683,
+                    43.931307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJLLR",
+                "Site_Name": "Jenny Lake Loop Road (GRTEJLLR)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "7 Mar-12 Apr 2014",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<13.6 dBA",
+                "Lmax": "68.1 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "GRTEJLLR.jpg",
+                "Acoustic_Summary": "This site, installed primarily to measure aircraft sounds in late winter, had wind as the most common sound source followed by silence and distant road vehicles.",
+                "Days": "37",
+                "Hours": "874",
+                "All_Hours": "All natural sounds (73%), Wind (59%), All non-natural sounds (29%), Silence (16%), Road vehicles (14%), Birds (10%), Aircraft (9%), Rain (8%)",
+                "Sound_Level_All": "L90=15.9 dBA, L50=18.3 dBA, L10=26.1 dBA, Leq=26.1 dBA",
+                "Sound_Level_Day": "L90=16.6 dBA, L50=19.8 dBA, L10=29.0 dBA, Leq=29.2 dBA",
+                "Photo1_Caption": "Site in pines; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71457,
+                    43.76292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJLSL",
+                "Site_Name": "Jackson Lake South Landing (GRTEJLSL)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "9-19 Feb 2003",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<10.4 dBA",
+                "Lmax": "70.5 dBA",
+                "Max_ID": "Red Squirrel",
+                "Photo1": "GRTEJLSL.jpg",
+                "Acoustic_Summary": "This very early monitoring site was one of the quietest. Wind and silence dominated the depth of winter soundscape. Occasional bird and red squirrels were also audible.",
+                "Days": "11",
+                "Hours": "173",
+                "All_Hours": "",
+                "Sound_Level_All": "L90=15.4 dBA, L50=16.2 dBA, L10=23.8 dBA, Leq=26.0 dBA",
+                "Sound_Level_Day": "L90=15.4 dBA, L50=17.0 dBA, L10=26.6 dBA, Leq=31.0 dBA",
+                "Photo1_Caption": "Site near lake; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.622517,
+                    43.821922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJLWC",
+                "Site_Name": "Jackson Lake Waterfall Canyon (GRTEJLWC)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "15 Mar-2 Apr 2010",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "<13.9 dBA",
+                "Lmax": "75.5 dBA",
+                "Max_ID": "Propeller Plane",
+                "Photo1": "GRTEJLWC.jpg",
+                "Acoustic_Summary": "Located on the west shore of frozen Jackson Lake, natural sounds dominated this area. Wind, birds, and silence were the most common sounds. Aircraft, snowplows, and unidentified motor sounds carried across the lake from the east side. Snowmobiles on the lake were heard, but very infrequently.",
+                "Days": "18",
+                "Hours": "432",
+                "All_Hours": "All natural sounds (63%), Wind (36%), Silence (27%), Bird (20%), All non-natural sounds (18%), Snowfall ((9%), Aircraft (8%), Unknown motors (5%), Rotary snow plow (4%), Snowmbile (1%)",
+                "Sound_Level_All": "L90=14.8 dBA, L50=15.6 dBA, L10=18.9 dBA, Leq=18.8 dBA",
+                "Sound_Level_Day": "L90=14.8 dBA, L50=15.6 dBA, L10=20.4 dBA, Leq=21.1 dBA",
+                "Photo1_Caption": "Site at base of small pine; photo looking northeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.70744,
+                    43.91516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTELOSA",
+                "Site_Name": "Lower Saddle (GRTELOSA)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "15-30 Aug 2008",
+                "Habitat": "Rocky High Elevation",
+                "Lmin": "<13.7 dBA",
+                "Lmax": "96 dBA",
+                "Max_ID": "Human Voices",
+                "Photo1": "GRTELOSA_north.jpg",
+                "Photo2": "GRTELOSA_west.jpg",
+                "Acoustic_Summary": "Placed in a high rocky pass in the mountains this site was very windy. Voices from the nearby climbers' camping area were heard during almost all hours from very early morning before light until after dark. Rockfall and pika were also heard regularly.",
+                "Days": "15",
+                "Hours": "358",
+                "All_Hours": "All natural sounds (72%), All non-natural sounds (61%), Wind (60%), People's voices (52%), Birds (20%), Aircraft (9%), Insects (4%), Silence (3%) ",
+                "Sound_Level_All": "L90=22.7 dBA, L50=25.8 dBA, L10=29.9 dBA, Leq=28.4 dBA",
+                "Sound_Level_Day": "L90=23.1 dBA, L50=26.9 dBA, L10=32.4 dBA, Leq=30.9 dBA",
+                "Photo1_Caption": "Photo from site looking north",
+                "Photo2_Caption": "Photo from site looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81084,
+                    43.733693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMCBL",
+                "Site_Name": "McBride Lek (GRTEMCBL)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "27 Mar-3 Jun 2013",
+                "Habitat": "Sage Brush",
+                "Lmin": "<14.8 dBA",
+                "Lmax": "92.5 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEMCBL_northwest.jpg",
+                "Photo2": "GRTEMCBL_winter.jpg",
+                "Acoustic_Summary": "The soundscape at this site near a long-abandoned sage grouse lek was dominated by wind, the nearby highway and Jackson Hole Airport.",
+                "Days": "68",
+                "Hours": "1634",
+                "All_Hours": "",
+                "Sound_Level_All": "L90=25.2 dBA, L50=30.7 dBA, L10=39.0 dBA, Leq=38.8 dBA",
+                "Sound_Level_Day": "L90=27.1 dBA, L50=31.9 dBA, L10=40.0 dBA, Leq=42.8 dBA",
+                "Photo1_Caption": "Site in sage brush; photo looking northwest",
+                "Photo2_Caption": "During site visit; photo of sound monitoring system"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73463,
+                    43.58701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMOPO",
+                "Site_Name": "Moose Pond (GRTEMOPO)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "28 Aug-30 Sep 2012, 10-30 May 2014",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<16.7 dBA",
+                "Lmax": "89.4 dBA",
+                "Max_ID": "Helicopter",
+                "Photo1": "GRTEMOPO_north.jpg",
+                "Acoustic_Summary": "Acoustic data was collected at this site in early and late summer. Water cascading out of the mountains was audible the majority of the time. Birds and wind were often heard. During the day hikers’ voices and the Jenny Lake Boat Shuttle were audible. Aircraft and distant road traffic was occasionally heard.",
+                "Days": "55",
+                "Hours": "1306",
+                "All_Hours": "All natural sounds (97%), Flowing water (67%), Birds (65%), All non-natural sounds (33%), Wind (21%), Aircraft (11%), Mammals (7%), Watercraft (6%), Unknown motor sounds (5%), Rain (4%), Road vehicles (4%)",
+                "Sound_Level_All": "L90=23.5 dBA, L50=26.7 dBA, L10=33.3 dBA, Leq=31.8 dBA",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Photo near site looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73948,
+                    43.75047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMURA",
+                "Site_Name": "Murie Ranch (GRTEMURA)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "13 May-24 Aug 2009",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<20.3 dBA",
+                "Lmax": "100.2 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEMURA.jpg",
+                "Acoustic_Summary": "Early in the summer the rushing waters of the Snake River dominated the soundscape along with bird songs and squirrel calls. Wind generally picked up in the afternoon. Aircraft and unidentified motors were regularly audible throughout the sampling period.",
+                "Days": "109",
+                "Hours": "2596",
+                "All_Hours": "All natural sounds (97%), Bird (61%), All non-natural sounds (60%), Flowing water (59%), Squirrel (32%), Unknown motors (32%), Aircraft (26%), Wind (16%), Insect (16%)",
+                "Sound_Level_All": "L90=31.6 dBA, L50=34.3 dBA, L10=39.3 dBA, Leq=39.4 dBA",
+                "Sound_Level_Day": "L90=30.9 dBA, L50=34.1 dBA, L10=40.4 dBA, Leq=41.4 dBA",
+                "Photo1_Caption": "Site south of ranch cabins; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73079,
+                    43.64942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESC01",
+                "Site_Name": "Spread Creek 01 (GRTESC01)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "13-21 Jun 2014",
+                "Habitat": "Open Deciduous Forest ",
+                "Lmin": "36.2 dBA",
+                "Lmax": "67.5 dBA",
+                "Max_ID": "Heavy Equipment",
+                "Photo1": "GRTESC01_northeast.jpg",
+                "Acoustic_Summary": "This site was selected to quantify the soundscape between the known sage grouse leks and the Spread Creek pit gravel extraction and asphalt processing plant. The site was close to Spread Creek so flowing water sounds dominated the soundscape. Because of this, the sampling location was moved to GRTESC02 after a week.",
+                "Days": "8",
+                "Hours": "191",
+                "Sound_Level_All": "L90=40.2 dBA, L50=40.9 dBA, L10=42.7 dBA, Leq=41.6 dBA",
+                "Sound_Level_Day": "L90=39.3 dBA, L50=40.2 dBA, L10=42.8 dBA, Leq=41.3 dBA",
+                "Photo1_Caption": "Site south of Spread Creek; photo looking northeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.50639,
+                    43.77845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESC02",
+                "Site_Name": "Spread Creek 02 (GRTESC02)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "21 Jun-30 Sep 2014",
+                "Habitat": "Sage Brush",
+                "Lmin": "<17.6 dBA",
+                "Lmax": "97.8 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTESC02_southeast.jpg",
+                "Acoustic_Summary": "This site was adjacent to the Spread Creek pit during gravel extraction and asphalt production. The soundscape was dominated by loud motorized sounds during the daily periods of pit operations.",
+                "Days": "73",
+                "Hours": "1745",
+                "All_Hours": " All non-natural sounds (73%), All natural sounds (65%), Heavy Equipment (65%), Flowing water (37%), Bird (26%), Wind (10%), Insect (9%), Aircraft (5%), Squirrel (4%)",
+                "Sound_Level_All": "L90=33.3 dBA, L50=34.9 dBA, L10=38.5 dBA, Leq=37.4 dBA",
+                "Sound_Level_Day": "L90=43.9 dBA, L50=47.6 dBA, L10=52.8 dBA, Leq=50.5 dBA",
+                "Photo1_Caption": "Site near gravel pit and asphalt plant; photo looking southwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.50799,
+                    43.77719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESC03",
+                "Site_Name": "Spread Creek 03 (GRTESC03)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "16 Jul-8 Aug 2014",
+                "Habitat": "Sage Brush",
+                "Lmin": "<15.7 dBA",
+                "Lmax": "89 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTESC03_west.jpg",
+                "Acoustic_Summary": "This site was selected along with others nearby to characterize the soundscape between the Spread Creek pit and two sage grouse leks. The pit operations were clearly audible at this site, along with sounds from Spread Creek and other natural sound sources.",
+                "Days": "24",
+                "Hours": "562",
+                "All_Hours": "All natural sounds (89%), All non-natural sounds (49%), Flowing water (48%), Bird (24%), Wind (24%), Heavy Equipment (21%), Insect (20%), Aircraft (12%), Unknown motors (7%)",
+                "Sound_Level_All": "L90=24.0 dBA, L50=26.9 dBA, L10=31.7 dBA, Leq=30.2 dBA",
+                "Sound_Level_Day": "L90=20.9 dBA, L50=24.3 dBA, L10=31.3 dBA, Leq=30.6 dBA",
+                "Photo1_Caption": "Site in expansive sage brush; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.5035,
+                    43.78359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESCL1",
+                "Site_Name": "Spread Creek Lek 1 (GRTESCL1)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "13 Jun-15 Jul 2014, 8-14 Aug 2014",
+                "Habitat": "Sage Brush",
+                "Lmin": "<14.7 dBA",
+                "Lmax": "85.2 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTESCL1_west.jpg",
+                "Acoustic_Summary": "This site was adjacent to a sage grouse lek on the sage brush flats. The distant Spread Creek gravel pit operations soundscape could often be heard here, but natural sounds were also frequently audible.",
+                "Days": "38",
+                "Hours": "908",
+                "All_Hours": "All natural sounds (93%), Bird (54%), All non-natural sounds (47%), Flowing water (40%), Road vehicles (33%), Heavy equipment (25%), Insect (24%), Wind (17%), Aircraft ( 10%), Unknown motor (5%), Backup alarms (3%)",
+                "Summer Daytime Hours": "All natural sounds (92%), All non-natural sounds (66%), Bird (62%), Road vehicles (47%), Insect (43%), Heavy equipment (39%), Wind (28%), Aircraft (15%), Unknown motor (5%), Backup alarms (5%), Flowing water (4%)",
+                "Sound_Level_All": "L90=23.7 dBA, L50=27.1 dBA, L10=32.5 dBA, Leq=31.6 dBA",
+                "Sound_Level_Day": "L90=22.7 dBA, L50=25.8 dBA, L10=33.3 dBA, Leq=33.2 dBA",
+                "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.5001,
+                    43.78759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESCLN",
+                "Site_Name": "Spread Creek Low Noise (GRTESCLN)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "8-25 Aug 2014",
+                "Habitat": "Sage Brush",
+                "Lmin": "5.8 dBA",
+                "Lmax": "80.3 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTESCL1_west.jpg",
+                "Acoustic_Summary": "This site, co-located with GRTESCL1, used specialized very low noise instruments that could measure sounds as low as 0 dBA. The lowest sounds measured were far below the lowest sound levels measured by the standard sound monitors.",
+                "Days": "17",
+                "Hours": "406",
+                "All_Hours": "see co-located GRTESCL1",
+                "Sound_Level_All": "L90=19.9 dBA, L50=23.6 dBA, L10=29.3 dBA, Leq=27.8 dBA",
+                "Sound_Level_Day": "L90=19.8 dBA, L50=23.8 dBA, L10=31.5 dBA, Leq=31.0 dBA",
+                "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.5002,
+                    43.78759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESCL2",
+                "Site_Name": "Spread Creek Lek 2 (GRTESCL2)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "16 Jul-19 Aug 2014",
+                "Habitat": "Sage Brush",
+                "Lmin": "<14.7 dBA",
+                "Lmax": "85.2 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTESCL2.JPG",
+                "Acoustic_Summary": "This site was adjacent to a sage grouse lek on the bluff looking south towards Spread Creek and the Spread Creek pit. Pit operations were clearly audible at this site.",
+                "Days": "50",
+                "Hours": "590",
+                "All_Hours": "All natural sounds (83%), All non-natural sounds (54%), Road vehicles (36%), Flowing water (33%), Insect (24%), Wind (22%), Birds (18%), Unknown motor (10%), Aircraft (9%)",
+                "Summer Daytime Hours": "All natural sounds (84%), All non-natural sounds (67%), Insect (45%), Road vehicles (44%), Wind (35%), Birds (24%), Aircraft (13%), Unknown motor (12%)",
+                "Sound_Level_All": "L90=20.7 dBA, L50=23.4 dBA, L10=29.5 dBA, Leq=28.6 dBA",
+                "Sound_Level_Day": "L90=23.6 dBA, L50=26.8 dBA, L10=34.5 dBA, Leq=33.1 dBA",
+                "Photo1_Caption": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.49723,
+                    43.79119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESRSN",
+                "Site_Name": "Snake River Spread North (GRTESRSN)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "28 Jul-13 Sep 2006",
+                "Habitat": "Open Deciduous Forest",
+                "Lmin": "31.1 dBA",
+                "Lmax": "90.1 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTESRSN_southeast.jpg",
+                "Acoustic_Summary": "The soundscape at this site adjacent to the Snake River was dominated by the sounds of flowing water, but elk were often heard especially in the evenings. Birds and insects along with occasional voices of boaters were audible here. Distant highway vehicle sounds were also audible at this site.",
+                "Days": "47",
+                "Hours": "1122",
+                "All_Hours": "Flowing water (100%), All natural sounds (100%), Birds (45%), All non-natural sounds (20%), Chipmunk, (13%), Unknown motors (12%) Aircraft (6%)",
+                "Sound_Level_All": "L90=36.9 dBA, L50=37.9 dBA, L10=39.5 dBA, Leq=38.7 dBA",
+                "Sound_Level_Day": "L90=35.8 dBA, L50=37.1 dBA, L10=39.1 dBA, Leq=38.6 dBA",
+                "Photo1_Caption": "Site near Snake River; photo looking southeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.581338,
+                    43.795437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESTGL",
+                "Site_Name": "Sharp-tailed Grouse Lek (GRTESTGL)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "30 Apr-3 Jun 2010",
+                "Habitat": "Sage Brush",
+                "Lmin": "~7.6 dBA",
+                "Lmax": "~90.2 dBA",
+                "Max_ID": "Western Meadowlark",
+                "Photo1": "GRTESTGL_south.jpg",
+                "Acoustic_Summary": "The primary reason for monitoring at this site in the sage brush overlooking the Kelly Hayfields was to document the presence of sharp-tailed grouse. Many sage brush habitat birds including meadowlarks and sharp-tailed grouse were recorded.",
+                "Days": "27",
+                "Hours": "781",
+                "Sound_Level_All": "L90=23.1 dBA, L50=30.8 dBA, L10=39.7 dBA, Leq=37.0 dBA ",
+                "Sound_Level_Day": "L90=24.6 dBA, L50=33.7 dBA, L10=42.3 dBA, Leq=41.2 dBA ",
+                "Photo1_Caption": "Site in tall sage brush; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.61626,
+                    43.65544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTETIIS",
+                "Site_Name": "Timbered Island (GRTETIIS)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "2 Oct-15 Nov 2002, 9 Feb-23 Jul 2003",
+                "Habitat": "Sage Brush",
+                "Lmin": "<17.4 dBA",
+                "Lmax": "87.0 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTETIIS_northwest.jpg",
+                "Acoustic_Summary": "This was the earliest sound monitoring sites in Grand Teton National Park. Distant highway vehicles were audible along with frequent aircraft coming and going from the Jackson Hole Airport. Many birds, especially in the spring and summer, and elk were audible.",
+                "Days": "139",
+                "Hours": "3336",
+                "All_Hours": "All non-natural sounds (66%), All natural sounds (50%), All road vehicles (33%), Unknown motors (24%), Elk (19%), Wind (18%), Aircraft (10%), Birds (9%)",
+                "Sound_Level_All": "L90=36.0 dBA, L50=37.7 dBA, L10=40.6 dBA, Leq=39.7 dBA",
+                "Sound_Level_Day": "L90=35.9 dBA, L50=37.8 dBA, L10=41.8 dBA, Leq=4.5 dBA",
+                "Photo1_Caption": "Site co-located with weather station; photo looking northwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71352,
+                    43.71489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEFLRS",
+                "Site_Name": "Flagg Ranch Ranger Station (GRTEFLRS)",
+                "Unit_Code": "JODR",
+                "Season": "Winter",
+                "Year": "10-20 Feb 2003, 4 Dec 2003-29 Mar 2004",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "20.0 dBA",
+                "Lmax": "88.0 dBA",
+                "Max_ID": "Rotary Snowplow",
+                "Photo1": "GRTEFLRS.jpg",
+                "Acoustic_Summary": "Data were collected at this site during two winter seasons. The main activity was people coming or going from Yellowstone NP on their trip by oversnow vehicle. Silence and wind were the most common natural sounds.",
+                "Days": "103",
+                "Hours": "2472",
+                "All_Hours": "All non-natural sources (39%), All natural sources (33%), Silence (30%), Wind (27%), People (17%), Oversnow vehicles (14%), Unknown motor (10%), Bird (4%), Aircraft (4%)",
+                "Sound_Level_All": "L90=21.6 dBA, L50=23.2 dBA, L10=28.1 dBA, Leq=28.3 dBA",
+                "Sound_Level_Day": "L90=21.6 dBA, L50=24.0 dBA, L10=32.8 dBA, Leq=32.8 dBA",
+                "Photo1_Caption": "Site near Ranger Station; photo looking northeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.665271,
+                    44.107056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTETRLG",
+                "Site_Name": "Teton Road Lagoon (GRTETRLG)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "14 Jan 2004-11 Feb 2005",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<19.8 dBA",
+                "Lmax": "104.3 dBA",
+                "Max_ID": "Red Squirrel",
+                "Photo1": "GRTETRLG.jpg",
+                "Acoustic_Summary": "This year-long site was adjacent to the Teton Park Road just south of Signal Mountain. Road traffic dominated the soundscape in the spring, summer, and fall, but the winters were comparatively serene after the road closed for the season. Occasional snowmobiles and groomers were heard during the winter and distant traffic from Highway 89 was also audible.",
+                "Days": "346",
+                "Hours": "8291",
+                "All_Hours": "All non-natural sounds (52%), All natural sounds (48%), All road vehicles (29%), Silence (25%), Wind (23%), Birds (18%), Sewage lagoon pump (12%), Aircraft (8%), ",
+                "Sound_Level_All": "L90=23.4 dBA, L50=28.2 dBA, L10=34.7 dBA, Leq=36.8 dBA",
+                "Sound_Level_Day": "L90=25.7 dBA, L50=33.0 dBA, L10=45.0 dBA, Leq=45.2 dBA",
+                "Photo1_Caption": "Site in small island of pine; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.613674,
+                    43.82334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEWHGR",
+                "Site_Name": "White Grass (GRTEWHGR)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "2 Feb 2004-7 Feb 2005, 21 Jan-7 Feb 2015",
+                "Habitat": "Sage Brush",
+                "Lmin": "<8.6 dBA",
+                "Lmax": "94.5 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEWHGR_summer.jpg",
+                "Photo2": "GRTEWHGR_winter.jpg",
+                "Acoustic_Summary": "This early yearlong site was augmented more recently with a very low noise system. The minimum sound levels were far below levels documented with standard sound monitoring systems. The distant airport sounds, high flying aircraft, and summer cars along the Death Canyon Road were regularly audible. Natural sounds included elk bugling, wind, distant flowing water coming out of the Tetons, and many birds singing.",
+                "Days": "279",
+                "Hours": "6674",
+                "All_Hours": "All natural sounds (69%), All non-natural sounds (44%), Flowing water (27%), Wind (27%), Birds (19%), Unknown motors (17%), Aircraft (16%), Elk (10%), All road vehicles (7%)",
+                "Sound_Level_All": "L90=25.9 dBA, L50=28.0 dBA, L10=33.1 dBA, Leq=32.9 dBA",
+                "Sound_Level_Day": "L90=26.7 dBA, L50=29.2 dBA, L10=36.0 dBA, Leq=35.2 dBA",
+                "Photo1_Caption": "Site in large meadow; photo looking west",
+                "Photo2_Caption": "”Site in large meadow; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.768982,
+                    43.655003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMWR2",
+                "Site_Name": "Moose Wilson Road 2 (GRTEMWR2)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "19 Aug-19 Sep 2013",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<15 dBA",
+                "Lmax": "~84.7 dBA",
+                "Max_ID": "Motorcycle",
+                "Photo1": "GRTEMWR2_southeast.jpg",
+                "Acoustic_Summary": "This late summer sound monitor was located 100 feet from the gravel portion of the Moose Wilson Road. Road traffic was the single most prevalent sound source during the day, but many natural sounds were also audible.",
+                "Days": "32",
+                "Hours": "745",
+                "All_Hours": "All non-natural sounds (60%), All natural sounds (71%), Road vehicles (49%), Flowing water (40%), Birds (18%), Insect (10%), Wind (9%), Aircraft (8%), Unknown motors (8%), Rain (6%), Elk (5%), Squirrel (4%)",
+                "Summer Daytime_Hours": "All non-natural sounds (85%), Road vehicles (71%), All natural sounds (62%), Birds (26%), Insect (20%), Wind (13%), Aircraft (13%), Flowing water (12%), Squirrel (7%)",
+                "Sound_Level_All": "L90~24.7 dBA, L50~29.6 dBA, L10~38.4 dBA, Leq~35.2 dBA",
+                "Sound_Level_Day": "L90~26.3 dBA, L50~32.6 dBA, L10~40.9 dBA, Leq~37.8 dBA",
+                "Photo1_Caption": "Site 100 feet from gravel Moose Wilson Road; photo looking southeast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79222,
+                    43.61265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMWR3",
+                "Site_Name": "Moose Wilson Road 3 (GRTEMWR3)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "1 Nov 2013-26 Nov 2014, 23 Feb-7 Mar 2015",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "<10.3 dBA",
+                "Lmax": "91.1 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEMWR3_southwest.jpg",
+                "Acoustic_Summary": "The yearlong standard sound monitor was augmented with a very low sound monitoring system the second winter. Sounds that characterize this site include wind and the near and distant sounds of motors originating from the Jackson Hole Airport and road vehicles. During the winter when the adjacent section of the Moose Wilson Road is plowed, road vehicles are heard regularly. In the summer the nearby road dominates the soundscape during the day. Birds sing and red squirrels chatter, and in the autumn the forest echoes with the sounds of elk bugling.",
+                "Days": "357",
+                "Hours": "8562",
+                "All_Hours": "",
+                "Summer Daylight Hours": "All natural sounds (99%), Birds (93%), All non-natural sounds (85%), All Road Vehicles (60%), Wind (39%), Aircraft (20%), Unknown motor sounds (10%), Insects (8%), Flowing Water (4%), Mammals (4%), Rain (4%)",
+                "Winter Daylight Hours": "",
+                "Sound_Level_All": "L90=27.3 dBA, L50=30.4 dBA, L10=35.8 dBA, Leq=34.7 dBA",
+                "Sound_Level_Day": "L90=28.9 dBA, L50=33.0 dBA, L10=39.1 dBA, Leq=38.4 dBA",
+                "Photo1_Caption": "Site in near wetlands; photo looking southwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73983,
+                    43.65266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPACR",
+                "Site_Name": "Pacific Creek Intersection (GRTEPACR)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "2-4 Jan 2003, 8-20 Feb 2003",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "8.7 dBA",
+                "Lmax": "84.6 dBA",
+                "Max_ID": "Unknown",
+                "Photo1": "GRTEPACR_in_trees.jpg",
+                "Acoustic_Summary": "This very early sound monitoring site was adjacent to Highway 89. Other than the road traffic the site was very quiet.",
+                "Days": "14",
+                "Hours": "321",
+                "Sound_Level_All": "L90=17.5 dBA, L50=22.3 dBA, L10=37.8 dBA, Leq=42.0 dBA",
+                "Sound_Level_Day": "L90=19.7 dBA, L50=25.8 dBA, L10=41.6 dBA, Leq=43.9 dBA",
+                "Photo1_Caption": "Site in trees off of Hwy 89; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.521124,
+                    43.855329
+                ]
+            }
+        },
+        {
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPETR",
+                "Site_Name": "Pemble Trail (GRTEPETR)",
+                "Unit_Code": "GRTE",
+                "Season": "Winter and Summer",
+                "Year": "17-23 Feb 2007, 11-16 Jul 2008",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<6.7 dBA",
+                "Lmax": "71.7 dBA",
+                "Max_ID": "Propeller Plane",
+                "Photo1": "GRTEPETR_winter.jpg",
+                 "Photo2": "GRTEPETR_summer.jpg",
+              "Acoustic_Summary": "Not far from a government housing area this site had many sounds from the Jackson Hole Airport and overflying aircraft. Distant streams flowing out of the Tetons, wind in the trees, red squirrels and birds dominated the soundscape here.",
+                "Days": "18",
+                "Hours": "406",
+                "Sound_Level_All": "In winter L90=20.1 dBA, L50=23.1 dBA, L10=30.8 dBA, Leq=28.7 dBA, and in summer L90=27.0 dBA, L50=30.5 dBA, L10=34.7 dBA, Leq=33.3 dBA ",
+                "Sound_Level_Day": "In winter L90=20.5 dBA, L50=23.6 dBA, L10=32.4 dBA, Leq=31.2 dBA, and in summer L90=25.2 dBA, L50=28.8 dBA, L10=35.3 dBA, Leq=33.7 dBA ",
+                "Photo1_Caption": "Site along little used trail; photo looking south",               "Photo2_Caption": "Site along little used trail; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.740128,
+                    43.683974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPLJR",
+                "Site_Name": "Phelps Lake Jump Rock",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "7 Sept-2 Oct 2014, 23 Jun-9 Sep 2015", 
+                "Habitat": "Conifer Forest",
+                "Lmin": "<19.9 dBA",
+                "Lmax": "71.4 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "GRTEPLJR.jpg",
+                "Acoustic_Summary": "This is a site, in Potential Wilderness, along the shores of Phelps Lake just above an increasingly popular recreational hotspot. Jump Rock, as the name implies, lures visitors to launch themselves into the lake below, often with a yell to accompany the splash. Other sounds include the stream flowing out of Death Canyon, aircraft, and birds.",
+                "Days": "25",
+                "Hours": "594",
+                "All_Hours": "All natural sounds (98%), Flowing water (74%), All non-natural sounds (24%), Rain (17%), Bird (15%), Wind (15%), Waves (14%), Aircraft (11%), Squirrel (8%), Unknown motor (8%), People's voices (6%)",
+                "Summer Daytime Hours ": "All natural sounds (96%), Flowing water (59%), All non-natural sounds (40%), Rain (18%), Bird (21%), Wind (22%), Waves (17%), Aircraft (19%), Squirrel (16%), Unknown motor (13%), People's voices (11%)",
+                "Sound_Level_All": "L90~26.7 dBA, L50~28.6 dBA, L10~31.0 dBA, Leq~29.9 dBA",
+                "Sound_Level_Day": "L90~26.7 dBA, L50~28.6 dBA, L10~31.0 dBA, Leq~29.9 dBA",
+                "Photo1_Caption": "Site in hillside overlooking lake; photo looking northwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79354,
+                    43.64905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPLLN",
+                "Site_Name": "Phelps Lake Low Noise (GRTEPLLN)",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "7 Sep-2 Oct 2014",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "16.6 dBA",
+                "Lmax": "86.5 dBA",
+                "Max_ID": "Red Squirrel",
+                "Photo1": "YELLPLLN.jpg",
+                "Acoustic_Summary": "Within the boundary of the Laurance S Rockefeller Preserve along the southwest shore of Phelps Lake, this sound monitoring site recorded many birds, red squirrels, hikers’ voices, and aircraft noise from Jackson Hole Airport.",
+                "Days": "25",
+                "Hours": "593",
+                "All_Hours": "All natural sounds (99%), All non-natural sounds (40%), Rain (47%), Bird (39%), Unknown motors (20%), Wind (20%), Aircraft (17%), Squirrel (16%), Elk (12%)",
+                "Summer Daytime Hours": "All natural sounds (98%), All non-natural sounds (63%), Bird (50%), Rain (48%), Squirrel (30%), Aircraft (30%), Unknown motors (29%), Wind (24%), Elk (9%)",
+                "Sound_Level_All": "L90=27.7 dBA, L50=30.1 dBA, L10=33.8 dBA, Leq=34.7 dBA",
+                "Sound_Level_Day": "L90=28.4 dBA, L50=31.2 dBA, L10=37.5 dBA, Leq=37.5 dBA",
+                "Photo1_Caption": "Site in mature forest near lake; photo looking "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79555,
+                    43.63432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPHWE",
+                "Site_Name": "Potholes West (GRTEPHWE)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "7 Mar-15 Apr 2014, 28 Jul-20 Aug 2014",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<14.8 dBA",
+                "Lmax": "72.4 dBA",
+                "Max_ID": "Jet",
+                "Photo1": "GRTEPHWE_summer.jpg",
+                "Photo2": "GRTEPHWE_winter.jpg",
+                "Acoustic_Summary": "On the top of a bluff overlooking the Potholes region, this site was installed during the winter and summer primarily to quantify the acoustic impact of aircraft flying to and from the Jackson Hole Airport. Other common sounds included birds, wind, and road vehicles.",
+                "Days": "62",
+                "Hours": "1484",
+                "All_Hours": "All natural sounds (72%), All non-natural sounds (40%), Wind (47%), Road vehicles (26%), Birds (17%), Silence (16%), Unknown motors (9%), Aircraft (8%), Snowfall (8%), Squirrel (6%), Rotary snow plow (6%), Insects (5%)",
+                "Summer Daytime Hours": "All non-natural sounds (72%), All natural sounds (71%), Road vehicles (51%), Wind (36%), Birds (29%), Unknown motors (16%), Insects (13%), Silence (10%), Squirrel (10%), Aircraft (8%), Rain (4%)",
+                "Winter Daytime Hours": "All natural sounds (88%), Wind (61%), All non-natural sounds (33%), Snowfall (19%), Road vehicles (17%), Birds (17%), Rotary snow plow (16%), Aircraft (10%), Unknown motors (6%), Squirrel (6%), Silence (4%)",
+                "Sound_Level_All": "L90=16.3 dBA, L50=18.1 dBA, L10=27.4 dBA, Leq=28.5 dBA",
+                "Sound_Level_Day": "L90=17.2 dBA, L50=21.0 dBA, L10=30.9 dBA, Leq=31.1 dBA",
+                "Photo1_Caption": "Site on bluff overlooking Potholes; photo looking north",
+                "Photo2_Caption": "”Site on bluff overlooking Potholes; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63428,
+                    43.80864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLACLN",
+                "Site_Name": "Avalanche Creek (YELLACLN)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "7-9 Feb 2006",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<6.5 dBA",
+                "Lmax": "54.4 dBA",
+                "Max_ID": "Oversnow vehicle",
+                "Photo1": "YELLACLN.jpg",
+                "Acoustic_Summary": "This very low noise system was placed in the woods in the deep snow across from Sylvan Lake. Silence and wind were common. Occasional snowmobiles also passed by the site.",
+                "Days": "3",
+                "Hours": "44",
+                "All_Hours": "Silence (64%), All natural sounds (31%), Natural unknown (17%), Wind (9%), Birds (10%), All non-natural sounds (7%), Oversnow vehicles (2%)",
+                "Sound_Level_All": "L90=8.5 dBA, L50=9.9 dBA, L10=13.3 dBA, Leq=17.0 dBA",
+                "Sound_Level_Day": "L90=8.7 dBA, L50=10.7 dBA, L10=16.7 dBA, Leq=20.2 dBA",
+                "Photo1_Caption": "Setting up acoustic system 100 feet from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.164129,
+                    44.485505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLBEC1",
+                "Site_Name": "Bechler 1 (YELLBEC1)",
+                "Unit_Code": "YELL",
+                "Season": "Summer",
+                "Year": "29 Jul-3 Oct 2011",
+                "Habitat": "Open Mixed Forest",
+                "Lmin": "21.3 dBA",
+                "Lmax": "82.6 dBA",
+                "Max_ID": "Off-road Vehicle (motorcycle or 4- wheeler)",
+                "Photo1": "YELLBEC1.jpg",
+                "Acoustic_Summary": "Installed to quantify the motorized activity accessing the Bechler area, this site also recorded birds, red squirrels, wind, and silence.",
+                "Days": "58",
+                "Hours": "1361",
+                "All_Hours": "All natural sounds (98%), Flowing water (87%), Squirrel (12%), All non-natural sounds (12%), Wind (11%), Birds (11%), Insects (8%), All road vehicles (6%), Aircraft (4%) ",
+                "Sound_Level_All": "L90=37.3 dBA, L50=39.4 dBA, L10=41.6 dBA, Leq=41.1 dBA ",
+                "Sound_Level_Day": "L90=30.8 dBA, L50=34.0 dBA, L10=39.0 dBA, Leq=40.2 dBA ",
+                "Photo1_Caption": "Sound monitor in trees in middle of photo; taken from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.02231,
+                    44.132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLBTBC",
+                "Site_Name": "Blacktail Backcountry (YELLBTBC)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "18 Dec 2008-16 Jan 2009",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<15.7 dBA",
+                "Lmax": "67.3 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLBTBC.jpg",
+                "Acoustic_Summary": "Placed on the forested slopes facing the road, this site was installed to measure the difference in the soundscape between a site at a distance from a winter plowed road and the sampling sites in the interior of the park that had only oversnow vehicles.",
+                "Days": "31",
+                "Hours": "667",
+                "All_Hours": "All natural sounds (94%), Wind (79%), Natural other (40%), Silence (12%), All non-natural sounds (10%), Birds (7%), Road vehicles (6%), Aircraft (2%)",
+                "Sound_Level_All": "L90=26.6 dBA, L50=33.0 dBA, L10=39.9 dBA, Leq=36.5 dBA",
+                "Sound_Level_Day": "L90=29.5 dBA, L50=34.2 dBA, L10=41.0 dBA, Leq=35.6 dBA ",
+                "Photo1_Caption": "Sound monitor on hillside; photo facing northwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.59263,
+                    44.93441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLBTRS",
+                "Site_Name": "Blacktail Roadside (YELLBTRS)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "19 Dec 2008-16 Jan 2009",
+                "Habitat": "Sage Brush",
+                "Lmin": "16.3 dBA",
+                "Lmax": "78.0 dBA",
+                "Max_ID": "Road Vehicle",
+                "Photo1": "YELLBTRS.jpg",
+                "Acoustic_Summary": "The sound monitor was installed 100 feet from the plowed road to directly measure the difference between wheeled road vehicles and snow road traffic of oversnow vehicles.",
+                "Days": "30",
+                "Hours": "681",
+                "All_Hours": "All natural sounds (77%), Wind (75%), All non-natural sounds (22%), Natural other (19%), All road vehicles (18%), Silence (13%), Snowfall (5%), Aircraft (3%)",
+                "Sound_Level_All": "L90=21.6 dBA, L50=26.5 dBA, L10=35.1 dBA, Leq=34.3 dBA",
+                "Sound_Level_Day": " L90=23.2 dBA, L50=28.8 dBA, L10=37.8 dBA, Leq=38.1 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.59513,
+                    44.95517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLCLRS",
+                "Site_Name": "Cygnet Lake Roadside (YELLCLRS)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "14 Dec 2011-1 Mar 2012",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<13.7 dBA",
+                "Lmax": "82.3 dBA",
+                "Max_ID": "Snowmobile",
+                "Photo1": "YELLCLRS.jpg",
+                "Acoustic_Summary": "Placed 100 feet from the road under in a utility line, this was a quiet site when oversnow vehicles were not present and when the conditions were not windy.",
+                "Days": "79",
+                "Hours": "1828",
+                "All_Hours": "All natural sounds (69%), Wind (64%), Natural other (49%), Silence (21%), All non-natural sounds (16%), Oversnow vehicles (11%), Aircraft (3%)",
+                "Sound_Level_All": "L90=15.5 dBA, L50=17.9 dBA, L10=26.9 dBA, Leq=30.9 dBA",
+                "Sound_Level_Day": " L90=17.3 dBA, L50=22.9 dBA, L10=32.8 dBA, Leq=36.3 dBA ",
+                "Photo1_Caption": "Sound monitor in power line clearing 100 feet from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.57818,
+                    44.70412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLCRPA",
+                "Site_Name": "Caldera Rim Picnic Area (YELLCRPA)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "11 Jan-9 Feb 2011",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "16.3 dBA",
+                "Lmax": "81.3 dBA",
+                "Max_ID": "Heavy Equipment on tracks",
+                "Photo1": "YELLCRPA.jpg",
+                "Acoustic_Summary": "Placed 100 feet from a recent rerouted road between Madison Junction and Norris, Gibbon River could be heard during quiet times and oversnow vehicles could be heard from a distance as they approached from the south,",
+                "Days": "30",
+                "Hours": "682",
+                "All_Hours": "All natural sounds (95%), Flowing water (78%), Wind (21%), All non-natural sounds (25%), Oversnow vehicles (22%), Aircraft (3%)",
+                "Sound_Level_All": "L90=21.4 dBA, L50=23.0 dBA, L10=26.7 dBA, Leq=29.0 dBA",
+                "Sound_Level_Day": "L90=21.4 dBA, L50=23.2 dBA, L10=28.7 dBA, Leq=35.2 dBA ",
+                "Photo1_Caption": "Sound monitor in deep snow 100 feet from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.75095,
+                    44.65995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLCVDA",
+                "Site_Name": "Canyon Village Developed Area (YELLCVDA)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "14 Dec 2011-23 Jan 2012",
+                "Habitat": "Developed",
+                "Lmin": "14.8 dBA",
+                "Lmax": "76.2 dBA",
+                "Max_ID": "Helicopter",
+                "Photo1": "YELLCVDA.jpg",
+                "Acoustic_Summary": "Placed near the Canyon Visitor Center, this site measured the sounds of a busy developed area during the early portion of the winter season. Oversnow vehicle sounds were audible less than usual due to the poor snow road conditions early in the season.",
+                "Days": "41",
+                "Hours": "954",
+                "All_Hours": "All non-natural sounds (66%), Building utilities (44%), All natural sounds (41%), Wind (34%), Oversnow vehicles (18%), Silence (13%), Birds (6%), People’s Voices (5%), Aircraft (3%)",
+                "Sound_Level_All": "L90=19.9 dBA, L50=22.7 dBA, L10=28.2 dBA, Leq=27.4 dBA",
+                "Sound_Level_Day": "L90=21.4 dBA, L50=25.5 dBA, L10=32.0 dBA, Leq=32.5 dBA ",
+                "Photo1_Caption": "Sound monitor in patch of conifers adjacent to visitor center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.49157,
+                    44.73528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLDLCR",
+                "Site_Name": "Delacy Creek (YELLDLCR)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-6 Jan 2003, 13-19 Feb 2003, and 3-11 Jan 2008",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<16.1 dBA",
+                "Lmax": "70.4 dBA",
+                "Max_ID": "Red Squirrel",
+                "Photo1": "YELLDLCR.jpg",
+                "Acoustic_Summary": "This site was used during three separate time periods. The first two periods (2003) were before the quieter best available technology snowmobiles and guided groups were mandated. During that winter, oversnow vehicles were almost constantly audible during the day (2003 data not included in percent time audible below). Five winters later the soundscape was markedly quieter and oversnow vehicles were audible for less than 15% during the day.",
+                "Days": "18",
+                "Hours": "432",
+                "All_Hours": " All natural sounds (76%), Wind (69%), Natural other (33%), Snow (25%), Silence (18%), All non-natural sounds (15%), Oversnow vehicles (8%), Aircraft (4%)",
+                "Sound_Level_All": "L90=17.2 dBA, L50=19.1 dBA, L10=24.2 dBA, Leq=23.3 dBA",
+                "Sound_Level_Day": " L90=17.6 dBA, L50=20.6 dBA, L10=26.3 dBA, Leq=25.7 dBA ",
+                "Photo1_Caption": "Microphone in conifer forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.69513,
+                    44.43573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLFOPP",
+                "Site_Name": "Fountain Paint Pots (YELLFOPP)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "28 Dec 2014-14 Feb 2015",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "dBA",
+                "Lmax": "dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLFOPP.JPG",
+                "Acoustic_Summary": "This winter site just off of a boardwalk within the geothermal area recorded many geysers, mud pot sounds, and visitor and guide voices. Wind was also a frequent sound along with oversnow vehicles during the day.",
+                "Days": "52",
+                "Hours": "1145",
+                "All_Hours": "All natural sounds (95%), Geothermal sounds (82%), Wind (27%), Oversnow vehicles (23%), People’s voices (18%), Birds (4%), Aircraft (2%)",
+                "Sound_Level_All": "L90=26.5 dBA, L50=28.7 dBA, L10=34.5 dBA, Leq=34.5 dBA",
+                "Sound_Level_Day": "L90=27.4 dBA, L50=30.6 dBA, L10=39.6 dBA, Leq=37.8 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80659,
+                    44.55047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLFLBC",
+                "Site_Name": "Fern Lake Backcountry (YELLFLBC)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "23 Aug 2006-6 Sep 2007",
+                "Habitat": "Meadow",
+                "Lmin": "dBA",
+                "Lmax": "87.8 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLFLBC.jpg",
+                "Acoustic_Summary": "This yearlong monitor was at the most remote site measured in Yellowstone, 8 miles from the nearest road. Located several hundred yards from the nearest trail, natural sounds dominated the soundscape with only aircraft and rare loud motorcycles during the summer and rotary snow plows audible in the spring.",
+                "Days": "278",
+                "Hours": "6675",
+                "All_Hours": "All natural sounds (77%), Wind (52%), Birds (30%), Silence (17%), Squirrels (14%), All non-natural sounds (5%), Aircraft (4%)",
+                "Sound_Level_All": "L90=17.1 dBA, L50=22.5 dBA, L10=28.3 dBA, Leq=29.0 dBA",
+                "Sound_Level_Day": "L90=22.5 dBA, L50=26.3 dBA, L10=34.3 dBA, Leq=33.0 dBA ",
+                "Photo1_Caption": "Sound monitor overlooking wet meadow eight miles from closest road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.252768,
+                    44.676123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLFRIS",
+                "Site_Name": "Yellowstone Lake Frank Island (YELLFRIS)",
+                "Unit_Code": "YELL",
+                "Season": "Summer",
+                "Year": "10 Jul-11 Aug 2013",
+                "Habitat": "Open Multiple Forest",
+                "Lmin": "14.5 dBA",
+                "Lmax": "83.7 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLFRIS.jpg",
+                "Acoustic_Summary": "The only sound monitoring site on an island in Yellowstone Lake, waves and birds were the most common sound sources. Boats and insects were both audible for about 20% of the time.",
+                "Days": "33",
+                "Hours": "776",
+                "All_Hours": "All natural sounds (99%), Waves (78%), Birds (53%), Wind (26%), All non-natural sounds (23%), Watercraft (19%), Insects (19%), Aircraft (2%)",
+                "Sound_Level_All": "L90=34.8 dBA, L50=38.5 dBA, L10=42.4 dBA, Leq=40.8 dBA",
+                "Sound_Level_Day": "L90=33.3 dBA, L50=37.6 dBA, L10=42.8 dBA, Leq=41.1 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.35682,
+                    44.41255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLGVLL",
+                "Site_Name": "Grant Village Lewis Lake (YELLGVLL)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "19 Dec 2007-28 May 2008 and 13 Dec 2014-23 Mar 2015",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "13.9 dBA",
+                "Lmax": "84.5 dBA",
+                "Max_ID": "Snowplow",
+                "Photo1": "YELLGVLL.jpg",
+                "Acoustic_Summary": "This site 100 feet from the South Entrance Road was monitored during two winter seasons, the first that extended through May. During the winter, wind and silence were common, followed by groaning and creaking trees in the wind and oversnow vehicles.",
+                "Days": "257",
+                "Hours": "6167",
+                "All_Hours": "All natural sounds (62%), Wind (46%), Silence (26%), All non-natural sounds (21%), Natural other (14%), Oversnow vehicles (13%), Birds (7%), All road vehicles (4%), Aircraft (4%)",
+                "Sound_Level_All": "L90=19.6 dBA, L50=20.3 dBA, L10=25.7 dBA, Leq=30.4 dBA",
+                "Sound_Level_Day": "L90=20.2 dBA, L50=22.7 dBA, L10=30.6 dBA, Leq=35.9 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from South Entrance Road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.59624,
+                    44.32449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLHLBC",
+                "Site_Name": "Heart Lake Backcountry (YELLHLBC)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "16 Jan-16 Feb 2013",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "14.1 dBA",
+                "Lmax": "79.2 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLHLBC.jpg",
+                "Acoustic_Summary": "This winter site was five miles from the South Entrance Road near Heart Lake. This was a quiet site when the wind wasn’t blowing. Nearby geothermal activity could then be heard, as could distant oversnow vehicles on the groomed South Entrance Road.",
+                "Days": "32",
+                "Hours": "753",
+                "All_Hours": "All natural sounds (75%), Wind (56%), Silence (20%), Geothermal (12%), Natural other (10%), All non-natural sounds (10%), Oversnow vehicles (4%), Aircraft (3%)",
+                "Sound_Level_All": "L90=18.0 dBA, L50=21.1 dBA, L10=28.1 dBA, Leq=29.7 dBA",
+                "Sound_Level_Day": "L90=18.4 dBA, L50=22.2 dBA, L10=29.7 dBA, Leq=30.8 dBA ",
+                "Photo1_Caption": "Sound monitor in conifers north of Heart Lake Trail near Heart Lake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.49879,
+                    44.28741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLLSGY",
+                "Site_Name": "Lone Star Geyser (YELLLSGY)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "17 Dec 2003-9 Apr 2004 and 15 Dec 2005-21 May 2006",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "17.5 dBA",
+                "Lmax": "95.4 dBA",
+                "Max_ID": "Red Squirrel chewing on microphone windscreen",
+                "Photo1": "YELLLSGY.jpg",
+                "Acoustic_Summary": "This early monitoring system during two winter and spring seasons was just outside the barren geyser basin 3 miles from the road over Craig Pass. Silence was common with regular wind and geyser sounds audible. Aircraft and oversnow vehicles were less often heard.",
+                "Days": "216",
+                "Hours": "5168",
+                "All_Hours": "Silence (51%), All natural sounds (42%), Wind (15%), Geothermal (15%), All non-natural sounds (9%), Aircraft (4%), Oversnow vehicles (2%)",
+                "Sound_Level_All": "L90=28.1 dBA, L50=29.6 dBA, L10=34.9 dBA, Leq=34.1 dBA",
+                "Sound_Level_Day": "L90=27.9 dBA, L50=30.1 dBA, L10=36.4 dBA, Leq=35.7 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80481,
+                    44.4193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLLVWI",
+                "Site_Name": "Lamar Valley Willow (YELLLVWI)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "23 Dec 2009-23 Feb 2010",
+                "Habitat": "Meadow",
+                "Lmin": "14.1 dBA",
+                "Lmax": "85.8 dBA",
+                "Max_ID": "Black-billed Magpie",
+                "Photo1": "YELLLVWI.jpg",
+                "Acoustic_Summary": "This was a winter site, but along a plowed road, not a groomed oversnow vehicle road. Near the Buffalo Ranch in Lamar Valley, flowing water, and road vehicle were the most common sound sources. Birds and wind were often audible, as was an occasional coyote and wolf howl.",
+                "Days": "63",
+                "Hours": "1476",
+                "All_Hours": "All natural sounds (70%), Flowing water (42%), All non-natural sounds (39%), All road vehicles (31%), Wind (15%), Birds (13%), Silence (10%), Aircraft (3%)",
+                "Sound_Level_All": "L90=15.6 dBA, L50=17.4 dBA, L10=27.2 dBA, Leq=28.5 dBA",
+                "Sound_Level_Day": "L90=16.3 dBA, L50=21.1 dBA, L10=34.7 dBA, Leq=33.7 dBA ",
+                "Photo1_Caption": "Sound monitor in willow south of plowed road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.22073,
+                    44.88406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMACS",
+                "Site_Name": "Mammoth Canary Springs (YELLMACS)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "24 Jan-23 Feb 2012",
+                "Habitat": "Sage Brush",
+                "Lmin": "33.5 dBA",
+                "Lmax": "84.3 dBA",
+                "Max_ID": "Helicopter",
+                "Photo1": "YELLMACS.jpg",
+                "Acoustic_Summary": "A roadside site along a plowed road, this monitor was just outside of Mammoth along the road leading to the park’s interior. The flowing water here was from runoff from Canary Springs, a bright yellow geothermal feature. Wind, road vehicles, and snowcoaches were also audible daily.",
+                "Days": "31",
+                "Hours": "717",
+                "All_Hours": "All natural sounds (98%), Flowing water (83%), Wind (29%), All non-natural sounds (21%), All road vehicles (14%), Snowcoaches (5%) Aircraft (1%)",
+                "Sound_Level_All": "L90=41.8 dBA, L50=42.7 dBA, L10=44.4 dBA, Leq=45.9 dBA",
+                "Sound_Level_Day": "L90=41.8 dBA, L50=42.9 dBA, L10=46.6 dBA, Leq=47.9 dBA ",
+                "Photo1_Caption": "Sound monitor against conifer between plowed road and Canary Springs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.70197,
+                    44.96624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMBMD",
+                "Site_Name": "Middle Barronette Meadow (YELLMBMD)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "7 Feb-1 Mar 2012",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "~18.7 dBA",
+                "Lmax": "~81.0 dB",
+                "Max_ID": "Snowplow",
+                "Photo1": "YELLMBMD.jpg",
+                "Acoustic_Summary": "A winter roadside monitor to measure the soundscape near the plowed Northeast Entrance Road. Wind and flowing water were the most common sounds, followed by road vehicles, snowfall, and birds.",
+                "Days": "24",
+                "Hours": "547",
+                "All_Hours": "All natural sounds (86%), Wind (45%), Flowing water (34%), All non-natural sounds (19%), All road vehicles (13%), Snowfall (12%), Birds (11%), Silence (6%), Aircraft (4%)",
+                "Sound_Level_All": "L90=21.3 dBA, L50=22.6 dBA, L10=32.1 dBA, Leq=34.1 dBA",
+                "Sound_Level_Day": "L90=21.9 dBA, L50=24.4 dBA, L10=37.2 dBA, Leq=38.7 dBA ",
+                "Photo1_Caption": "Sound monitor in trees south of the Northeast Entrance Road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.07675,
+                    44.95032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMJ2B",
+                "Site_Name": "Madison Junction 50 Feet (YELLMJ2B)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "28 Feb-31 Mar 2014",
+                "Habitat": "Conifer Forest",
+                "Lmin": "15.4 dBA",
+                "Lmax": "88.5 dBA",
+                "Max_ID": "Snow removal heavy machinery",
+                "Photo1": "YELLMJ2B.jpg",
+                "Acoustic_Summary": "This site was installed between YELLMJ23 and the road to directly measure sound attenuation from oversnow vehicles.",
+                "Days": "32",
+                "Hours": "766",
+                "All_Hours": "See adjacent YELLMJ2B3",
+                "Winter Daytime Hours": "See adjacent YELLMJ23",
+                "Sound_Level_All": "L90=27.0 dBA, L50=30.6 dBA, L10=34.6 dBA, Leq=37.7 dBA",
+                "Sound_Level_Day": "L90=29.3 dBA, L50=33.4 dBA, L10=39.2 dBA, Leq=43.5 dBA ",
+                "Photo1_Caption": "Sound monitor 50 feet from groomed road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.89751,
+                    44.6424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMJ23",
+                "Site_Name": "Madison Junction 2.3 (YELLMJ23)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "3-5 Jan and 12-18 Feb 2003 and 13-16 Feb 2004 and 17-22 Feb 2005 and 5 Oct 2005-13 Jul 2015",
+                "Habitat": "Conifer Forest",
+                "Lmin": "14.3 dBA",
+                "Lmax": "99.2 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLMJ23.jpg",
+                "Acoustic_Summary": "Along with a monitoring site at Old Faithful, this has been the longest running system in Yellowstone. First installed in Jan 2003 it has been in place during the every winter, and year-round since Oct 2005. The nearby Madison River is audible during quiet periods, distant and passing oversnow vehicles are audible about 50% of the day during the winter use season, and road traffic is audible over 90% of the day during the summer season. Swans and geese are heard on the river, and the footsteps of bison are heard as the walk along the nearby road.",
+                "Days": "3333",
+                "Hours": "80000",
+                "All_Hours": "All natural sources (87%), All non-natural sounds (40%), Madison River (66%), Road vehicles (24%), Birds (24%), Oversnow vehicles (13%), Wind (14%), Aircraft (3%), Red squirrels (2%), Insect (2%)",
+                "Daytime Hours": "All natural sources (80%), All non-natural sounds (63%), Madison River (46%), Road vehicles (35%), Birds (33%), Oversnow vehicles (24%), Wind (20%), Red squirrels (5%), Insect (4%), Aircraft (3%)",
+                "Sound_Level_All": "L90=28.6 dBA, L50=31.9 dBA, L10=38.7 dBA, Leq=40.9 dBA",
+                "Sound_Level_Day": "L90=32.0 dBA, L50=37.4 dBA, L10=49.0 dBA, Leq=45.8 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from the West Entrance Road in regenerating pines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.89645,
+                    44.64254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMM4K",
+                "Site_Name": "Mary Mountain 4K",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "14-16 Feb 2004",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "28.7 dBA",
+                "Lmax": "59.9 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLMM4K.jpg",
+                "Acoustic_Summary": "This short-term winter site was installed to measure how far from the road oversnow vehicles are audible and at what sound levels.",
+                "Days": "3",
+                "Hours": "42",
+                "Sound_Level_All": "L90=29.7 dBA, L50=30.5 dBA, L10=32.1 dBA, Leq=33.4 dBA",
+                "Sound_Level_Day": "L90=30.4 dBA, L50=32.5 dBA, L10=39.7 dBA, Leq=36.4 dBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80231,
+                    44.57434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMM8K",
+                "Site_Name": "Mary Mountain 8K (YELLMM8K)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "7 Jan-3 Dec 2005 and 13 Jan-21 Feb 2008",
+                "Habitat": "Sage Brush",
+                "Lmin": "16.4 dBA",
+                "Lmax": "90.9 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLMM8K.jpg",
+                "Acoustic_Summary": "This site measured the soundscape during all seasons during 2005 and again for part of the winter of 2008. At a distance of one mile oversnow vehicles were audible about 28% of the day during the winter, but geothermal sounds, wind, flowing water, and birds were more consistent sound sources throughout the year. Road vehicles were commonly heard during the non-winter months.",
+                "Days": "370",
+                "Hours": "6782",
+                "All_Hours": "All natural sounds (85%), Geothermal (27%), Birds (28%), Wind (27%), Flowing water (23%), All non-natural sounds (22%), Silence (10%), All road vehicles (8%), Oversnow vehicles (4%)",
+                "Sound_Level_All": "L90=23.6 dBA, L50=25.1 dBA, L10=28.1 dBA, Leq=27.6 dBA",
+                "Sound_Level_Day": "L90=23.9 dBA, L50=27.1 dBA, L10=34.6 dBA, Leq=33.3 dBA ",
+                "Photo1_Caption": "Sound monitor one mile from road on edge of large meadow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+-110.78734,
+                    44.58075
+]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMMTR",
+                "Site_Name": "Mary Mountain Trail (YELLMMTR)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "21 Jan-31 Mar 2004",
+                "Habitat": "Sage Brush",
+                "Lmin": "20.7 dBA",
+                "Lmax": "78.6 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLMMTR.jpg",
+                "Acoustic_Summary": "An early site installed at the edge of the then Travel Corridor management zone to measure the impact of oversnow vehicles. Over a 24 hour day, wind and silence were more common than oversnow vehicle sounds. ",
+                "Days": "70",
+                "Hours": "1139",
+                "All_Hours": "All natural sounds (44%), Wind (42%), Silence (24%), Oversnow vehicles (14%), Aircraft (2%)",
+                "Sound_Level_All": "L90=23.4 dBA, L50=27.7 dBA, L10=28.9 dBA, Leq=31.7 dBA",
+                "Sound_Level_Day": "L90=23.8 dBA, L50=26.8 dBA, L10=36.8 dBA, Leq=35.7 dBA ",
+                "Photo1_Caption": "Sound monitor 1000 feet from road across large meadow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.81089,
+                    44.56947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMUVO",
+                "Site_Name": "Mud Volcano (YELLMUVO)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "9 Feb- 29 Mar 2007",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "23.2 dBA",
+                "Lmax": "75.4 dBA",
+                "Max_ID": "Road groomer",
+                "Photo1": "YELLMUVO.jpg",
+                "Acoustic_Summary": "This site was across the road from the active geothermal area of Mud Volcano and above the banks of the Yellowstone River. Fittingly, flowing water and geothermal sounds were the most frequent sound sources. Birds, wind, and oversnow vehicles were also regularly heard.",
+                "Days": "49",
+                "Hours": "723",
+                "All_Hours": "All natural sounds (99%), Flowing water (78%), Geothermal (63%), Birds (28%), Wind (21%), All non-natural sounds (13%), Oversnow vehicles (7%), Aircraft (3%)",
+                "Sound_Level_All": "L90=29.8 dBA, L50=31.0 dBA, L10=32.8 dBA, Leq=34.7 dBA",
+                "Sound_Level_Day": "L90=30.0 dBA, L50=31.6 dBA, L10=35.0 dBA, Leq=37.3 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road near bank of Yellowstone River across road from Mud Volcano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.430758,
+                    44.623463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLNTLA",
+                "Site_Name": "North Twin Lake (YELLNTLA)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "10-25 Feb 2009",
+                "Habitat": "Conifer Forest",
+                "Lmin": "<16.4 dBA",
+                "Lmax": "74.1 dBA",
+                "Max_ID": "Prinoth Snowcoach",
+                "Photo1": "YELLNTLA.jpg",
+                "Acoustic_Summary": "Tucked in between the frozen lake and the groomed North Entrance Road, this site was often very quiet. Wind and oversnow vehicles punctuated the winter soundscape. ",
+                "Days": "16",
+                "Hours": "356",
+                "All_Hours": "All natural sounds (57%), Wind (41%), Silence (35%), Natural other (33%), All non-natural sounds (16%), Oversnow vehicles (13%), Aircraft (3%)",
+                "Sound_Level_All": "L90=17.8 dBA, L50=19.1 dBA, L10=26.4 dBA, Leq=29.4 dBA",
+                "Sound_Level_Day": "L90=19.6 dBA, L50=23.5 dBA, L10=33.5 dBA, Leq=36.7 dBA ",
+                "Photo1_Caption": "Sound monitor in trees between road and North Twin Lake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73576,
+                    44.77484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLOFPO",
+                "Site_Name": "Old Faithful Post Office (YELLOFPO)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "11-18 Feb 2003",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "23.7 dBA",
+                "Lmax": "82.8 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLOFRS.jpg",
+                "Acoustic_Summary": "This short-term early site measured the soundscape behind the post office in the developed Old Faithful area. See the adjacent YELLOFWS for the common sounds.",
+                "Days": "8",
+                "Hours": "163",
+                "Sound_Level_All": "L90=30.9 dBA, L50=35.6 dBA, L10=47.5 dBA, Leq=43.0 dBA",
+                "Sound_Level_Day": "L90=37.3 dBA, L50=46.0 dBA, L10=54.5 dBA, Leq=50.3 dBA ",
+                "Photo1_Caption": "Sound monitor behind post office and ranger station in developed area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82921,
+                    44.45921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLOFUB",
+                "Site_Name": "Old Faithful Upper Basin (YELLOFUB)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "21 Jan-2 Feb 2005 and 22 Dec 2005-23 Feb 2006",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "19.3 dBA",
+                "Lmax": "71.2 dBA",
+                "Max_ID": "?",
+                "Photo1": "YELLOFUB.jpg",
+                "Acoustic_Summary": "Just off the boardwalk in the Upper Basin, this site overlooked the Old Faithful developed area and the Old Faithful Geyser. Geothermal activity was heard throughout the day followed by oversnow vehicles and people’s voices. ",
+                "Days": "34",
+                "Hours": "769",
+                "All_Hours": "All natural sounds (93%), Geothermal (85%), All non-natural sounds (45%), Oversnow vehicles (20%), People’s voices (20%), Wind (12%), Birds (9%), Aircraft (3%)",
+                "Sound_Level_All": "L90=28.3 dBA, L50=30.5 dBA, L10=35.2 dBA, Leq=34.2 dBA",
+                "Sound_Level_Day": "L90=29.4 dBA, L50=32.1 dBA, L10=37.5 dBA, Leq=36.2 dBA ",
+                "Photo1_Caption": "Sound monitor just off boardwalk in geyser basin overlooking Old Faithful"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.8274,
+                    44.46325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLOFWS",
+                "Site_Name": "Old Faithful Weather Station (YELLOFWS)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "4-5 Jan 2003 and 16 Dec 2003-31 Mar 2004 and 10 Dec 2004-13 Jul 2015",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "15.3 dBA",
+                "Lmax": "104.8 dBA",
+                "Max_ID": "Helicopter",
+                "Photo1": "YELLOFWS.jpg",
+                "Acoustic_Summary": "Perhaps the longest running non-airport sound monitoring site in the world, this monitor has been collecting data year-round since December of 2004. Although within the busy Old Faithful developed area, a surprising number of natural sounds are heard here, including wetland and upland birds, bison, coyotes, and wolves. Motorized vehicles dominate the soundscape especially in the summer, but people’s voices and building utilities are commonly heard.",
+                "Days": "3533",
+                "Hours": "84823",
+                "All_Hours": "All non-natural sounds (97%), Building utilities (54%), All natural sounds (45%), Road vehicles (29%), Birds (24%), Oversnow vehicles, (18%), Wind (17%), People’s voices (13%), Rumble strip (8%), Aircraft (1%)", 
+                "Winter Daytime Hours": "",
+                "Sound_Level_All": "L90=31.3 dBA, L50=34.8 dBA, L10=43.0 dBA, Leq=40.6 dBA",
+                "Sound_Level_Day": "L90=34.7 dBA, L50=40.4 dBA, L10=47.4 dBA, Leq=44.8 dBA ",
+                "Photo1_Caption": "Sound monitor in weather station enclosure near Ranger Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.83178,
+                    44.45688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLPAYP",
+                "Site_Name": "Paycheck Pass Backcountry (YELPAYP)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "15 Jan-15 Feb 2013",
+                "Habitat": "Conifer Forest",
+                "Lmin": "~9.1 dBA",
+                "Lmax": "~67.9 dBA",
+                "Max_ID": "Clarks Nutcracker",
+                "Photo1": "YELLPAYP.jpg",
+                "Acoustic_Summary": "This monitor was on Paycheck Pass just off the Heart Lake Trail about 3 miles from the groomed winter road. Wind was the most common sound. Interestingly, oversnow vehicles were heard less often here than the further (by 2 miles), but less windy YELLHLBC monitor.",
+                "Days": "31",
+                "Hours": "737",
+                "All_Hours": "All natural sounds (64%), Wind (48%), Silence (32%), Natural other (10%), All non-natural sounds (6%), Oversnow vehicles (3%), Aircraft (2%)",
+                "Winter Daytime Hours": " All natural sounds (71%), Wind (65%), Silence (21%), All non-natural sounds (12%), Natural other (9%), Oversnow vehicles (8%), Birds (5%, and Aircraft (3%)",
+                "Sound_Level_All": "L90=17.6 dBA, L50=21.6 dBA, L10=28.5 dBA, Leq=27.5 dBA",
+                "Sound_Level_Day": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA ",
+                "Photo1_Caption": "Sound monitor just off Heart Lake Trail"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.53603,
+                    44.31467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLPPRD",
+                "Site_Name": "Pumice Point Roadside (YELLPPRD)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "18 Dec 2014-14 Feb 2014",
+                "Habitat": "Conifer Forest",
+                "Lmin": "14.1 dBA",
+                "Lmax": "83.0 dBA",
+                "Max_ID": "Oversnow vehicle",
+                "Photo1": "YELLPPRS.jpg",
+                "Acoustic_Summary": "Near the shores of Yellowstone Lake just north of Pumice Point, this monitor often recorded strong winds. Other sounds included oversnow vehicles, birds, and ice cracking on the lake.",
+                "Days": "48",
+                "Hours": "1145",
+                "All_Hours": "All natural sounds (65%), Wind (49%), Natural other (34%), Silence (26%), All non-natural sounds (17%), Oversnow vehicles (12%), Birds (5%), Aircraft (3%)",
+                "Winter Daytime Hours": "All natural sounds (71%), Wind (43%), Natural other (37%), All non-natural sounds (28%), Oversnow vehicles (22%), Silence (14%), Birds (8%), Aircraft (4%)",
+                "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
+                "Sound_Level_Day": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road between West Thumb and Bridge Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.4894,
+                    44.45752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSAWE",
+                "Site_Name": "Yellowstone Lake South Arm West (YELLSAWE)",
+                "Unit_Code": "YELL",
+                "Season": "Summer",
+                "Year": "10 Jul-13 Aug 2013",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "14.6 dBA",
+                "Lmax": "96.7 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLSAWS.jpg",
+                "Acoustic_Summary": "This monitor was installed along the shores of the South Arm of Yellowstone Lake in the area with restrict motorboat speeds. Wind, birds, including loons, frogs, waves, and insects were audible natural sounds sources. Motorboats and aircraft were motorized sounds audible.",
+                "Days": "34",
+                "Hours": "802",
+                "All_Hours": "All natural sounds (98%), Waves (82%), Wind (37%), Birds (21%), Insects (18%), All non-natural sounds (16%), Watercraft (11%), Aircraft (3%)",
+                "Sound_Level_All": "L90=27.6 dBA, L50=32.6 dBA, L10=38.1 dBA, Leq=35.6 dBA",
+                "Sound_Level_Day": "L90=28.0 dBA, L50=33.3 dBA, L10=38.7 dBA, Leq=37.4 dBA ",
+                "Photo1_Caption": "Sound monitor under trees next to the shore"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.35311,
+                    44.36408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSERS",
+                "Site_Name": "South Entrance Roadside (YELLSERS)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "10 Dec 2013-25 Mar 2014",
+                "Habitat": "Conifer Forest",
+                "Lmin": "14.1 dBA",
+                "Lmax": "74.7 dBA",
+                "Max_ID": "Bombardier Snowcoach",
+                "Photo1": "YELLSERS.jpg",
+                "Acoustic_Summary": "Silence was only exceeded by wind for the most common sound source at this site 100 feet from the road. Oversnow vehicles and aircraft and birds and snowfall were also heard during the day. ",
+                "Days": "86",
+                "Hours": "2052",
+                "All_Hours": "All natural sounds (52%), Wind (47%), Silence (36%), All non-natural sounds (16%), Oversnow vehicles (10%), Snowfall (5%), Aircraft (5%)",
+                "Winter Daytime Hours": " All natural sounds (58%), Wind (49%), All non-natural (26%), Silence (25%), Oversnow vehicles (19%), Snowfall (9%), Aircraft (7%), Birds (6%)",
+                "Sound_Level_All": "L90=16.7 dBA, L50=18.8 dBA, L10=25.0 dBA, Leq=29.0 dBA",
+                "Sound_Level_Day": "L90=17.4 dBA, L50=21.2 dBA, L10=30.4 dBA, Leq=34.7 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road in tall conifer forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.6621,
+                    44.17487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSHGB",
+                "Site_Name": "Shoshone Geyser Basin (YELLSHGB)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "5-18 Feb 2008",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "29.5 dBA",
+                "Lmax": "73.0 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLSHGB.jpg",
+                "Acoustic_Summary": "Located within an active geyer basin far in the backcountry, the predominate sounds were geothermal activity and wind. Surprisingly, oversnow vehicles were audible over 10% of the time along the main road five miles away.",
+                "Days": "19",
+                "Hours": "306",
+                "All_Hours": "All natural sounds (93%), Wind (75%), Geothermal (21%), All non-natural sounds (15%), Oversnow vehicles (10%), Aircraft (4%)",
+                "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Sound monitor in trees on edge of geyser basin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.796947,
+                    44.356284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSLLN",
+                "Site_Name": "Sylvan Lake (YELLSLLN)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "7-9 Feb 2006",
+                "Habitat": "Lake",
+                "Lmin": "9.2 dBA",
+                "Lmax": "59.4 dBA",
+                "Max_ID": "Oversnow vehicle",
+                "Photo1": "YELLSLLA.jpg",
+                "Acoustic_Summary": "This low noise monitoring site was on the ice in the middle of Sylvan Lake near the top of Sylvan Pass. Wind, silence and occasional oversnow vehicles were audible at this location.",
+                "Days": "2",
+                "Hours": "33",
+                "Sound_Level_All": "L90=14.4 dBA, L50=16.6 dBA, L10=19.6 dBA, Leq=24.4 dBA",
+                "Sound_Level_Day": "L90=18.8 dBA, L50=25.5 dBA, L10=36.7 dBA, Leq=31.9 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.160305,
+                    44.479499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSPC2",
+                "Site_Name": "Spring Creek 2 (YELLSPC2)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "21 Dec 2006-6 Apr 2007",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "0.7 dBA",
+                "Lmax": "86.7 dBA",
+                "Max_ID": "Snow removal equipment",
+                "Photo1": "YELLSPC2.jpg",
+                "Acoustic_Summary": "At the edge of a wetlands area, this monitor on the slopes of Craig Pass picked up oversnow vehicles and distant activity as far away as Old Faithful. Wind and birds were also frequently recorded. About 1/5th of the time there was only silence.",
+                "Days": "90",
+                "Hours": "2142",
+                "All_Hours": "All natural sounds (69%), Wind (56%), All non-natural sounds (26%), Natural other (25%), Silence (21%), Oversnow vehicles (20%), Birds (12%), Aircraft (3%)",
+                "Sound_Level_All": "L90=19.1 dBA, L50=21.1 dBA, L10=28.6 dBA, Leq=32.0 dBA",
+                "Sound_Level_Day": "L90=21.3 dBA, L50=25.8 dBA, L10=35.2 dBA, Leq=38.6 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from the road at the edge of a wetlands embedded in a forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.743858,
+                    44.433633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSPCR",
+                "Site_Name": "Spring Creek (YELLSPCR)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "15-23 Feb 2006",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "17.6 dBA",
+                "Lmax": "84.1 dBA",
+                "Max_ID": "Snow groomer",
+                "Photo1": "YELLSCR.jpg",
+                "Acoustic_Summary": "This short-term location was moved to YELLSCR2 the following winter. Wind, silence, and birds were the main natural sounds. Oversnow vehicles and aircraft were the only non-natural sounds.",
+                "Days": "8",
+                "Hours": "184",
+                "All_Hours": "All natural sounds (78%), Wind (53%), Natural other (40%), All non-natural sounds  (26%), Oversnow vehicles (18%), Silence (15%), Aircraft (4%), Birds (4%)",
+                "Sound_Level_All": "L90=20.0 dBA, L50=21.5 dBA, L10=31.5 dBA, Leq=34.5 dBA",
+                "Sound_Level_Day": "L90=23.1 dBA, L50=28.3 dBA, L10=37.3 dBA, Leq=43.1 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.753083,
+                    44.43107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSYL3",
+                "Site_Name": "Sylvan Pass 3 (YELLSYL3)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "15 Dec 2012-7 Mar 2013",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<13.7 dBA",
+                "Lmax": "72.1 dBA",
+                "Max_ID": "Snow falling",
+                "Photo1": "YELLSYL3.jpg",
+                "Acoustic_Summary": "This, the third monitoring location near the top of Sylvan Pass, was a winter-long site. One hundred feet from the groomed road, in a conifer forest, the most common sounds were wind, trees creaking and groaning from wind movement, and the occasional snowmobile.",
+                "Days": "81",
+                "Hours": "1942",
+                "All_Hours": "All natural sounds (73%), Wind (65%), Natural other (37%), Silence (24%), All non-natural sounds (6%), Aircraft (3%), Oversnow vehicles (2%)",
+                "Sound_Level_All": "L90=16.2 dBA, L50=18.1 dBA, L10=22.9 dBA, Leq=25.1 dBA",
+                "Sound_Level_Day": "L90=16.9 dBA, L50=19.7 dBA, L10=26.5 dBA, Leq=28.6 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road in deep snow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.15714,
+                    44.47571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLT1E1",
+                "Site_Name": "Mary Mountain Transect East 1 (YELLT1E1)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-17 Feb 2010",
+                "Habitat": "Sage Brush",
+                "Lmin": "15.9 dBA",
+                "Lmax": "67.6 dBA",
+                "Max_ID": "Common Raven",
+                "Photo1": "YELLT1E1.JPG",
+                "Acoustic_Summary": "This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
+                "Days": "12",
+                "Hours": "267",
+                "Sound_Level_All": "L90=20.2 dBA, L50=21.9 dBA, L10=25.8 dBA, Leq=26.5 dBA",
+                "Sound_Level_Day": "L90=20.6 dBA, L50=23.5 dBA, L10=28.8 dBA, Leq=29.5 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80721,
+                    44.57164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLT1E2",
+                "Site_Name": "Mary Mountain Transect East 2 (YELLT1E2)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-14 Feb 2010",
+                "Habitat": "Sage Brush",
+                "Lmin": "20.1 dBA",
+                "Lmax": "72.4 dBA",
+                "Max_ID": "Low Propeller Plane",
+                "Photo1": "YELLT1E2.JPG",
+                "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
+                "Days": "11",
+                "Hours": "242",
+                "Sound_Level_All": "L90=24.4 dBA, L50=25.8 dBA, L10=27.9 dBA, Leq=28.8 dBA",
+                "Sound_Level_Day": "L90=25.1 dBA, L50=27.3 dBA, L10=30.4 dBA, Leq=31.4 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.80174,
+                    44.57344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLT1E3",
+                "Site_Name": "Mary Mountain Transect East 3 (YELLT1E3)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-8 Feb 2010",
+                "Habitat": "Sage Brush",
+                "Lmin": "<16.4 dBA",
+                "Lmax": "73.0 dBA",
+                "Max_ID": "Low Propeller Plane",
+                "Photo1": "YELLMM8K.jpg",
+                "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road. This location was the same as the earlier YELLMM8K..",
+                "Days": "5",
+                "Hours": "107",
+                "Sound_Level_All": "L90=19.1 dBA, L50=20.5 dBA, L10=23.3 dBA, Leq=24.4 dBA",
+                "Sound_Level_Day": "L90=19.0 dBA, L50=21.1 dBA, L10=25.4 dBA, Leq=26.3 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.78724,
+                    44.58075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLT1W1",
+                "Site_Name": "Mary Mountain Transect West 1 (YELLW1W1)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-12 Feb 2010",
+                "Habitat": "Sage Brush",
+                "Lmin": "<15.0 dBA",
+                "Lmax": "65.8 dBA",
+                "Max_ID": "Wind",
+                "Photo1": "YELLT1W1.JPG",
+                "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
+                "Days": "9",
+                "Hours": "216",
+                "Sound_Level_All": "L90=19.8 dBA, L50=22.1 dBA, L10=27.4 dBA, Leq=27.4 dBA",
+                "Sound_Level_Day": "L90=20.6 dBA, L50=24.0 dBA, L10=31.7 dBA, Leq=30.5 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82194,
+                    44.56642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLT1W2",
+                "Site_Name": "Mary Mountain Transect West 2 (YELLT1W2)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-13 Feb 2010",
+                "Habitat": "Sage Brush",
+                "Lmin": "<15.2 dBA",
+                "Lmax": "64.9 dBA",
+                "Max_ID": "Common Raven",
+                "Photo1": "YELLT1W2.JPG",
+                "Acoustic_Summary": "This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
+                "Days": "7",
+                "Hours": "166",
+                "Sound_Level_All": "L90=19.1 dBA, L50=20.8 dBA, L10=25.4 dBA, Leq=25.6 dBA",
+                "Sound_Level_Day": "L90=19.5 dBA, L50=23.4 dBA, L10=29.7 dBA, Leq=28.1 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82841,
+                    44.56424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLT1W3",
+                "Site_Name": "Mary Mountain Transect West 3 (YELLT1W3)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-13 Feb 2010",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<17.7 dBA",
+                "Lmax": "61.0 dBA",
+                "Max_ID": "Jet",
+                "Photo1": "YELLT1W3.JPG",
+                "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
+                "Days": "9",
+                "Hours": "206",
+                "Sound_Level_All": "L90=23.7 dBA, L50=26.5 dBA, L10=30.6 dBA, Leq=29.4 dBA",
+                "Sound_Level_Day": "L90=23.0 dBA, L50=27.2 dBA, L10=32.6 dBA, Leq=31.0 dBA ",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.84096,
+                    44.55991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLWEST",
+                "Site_Name": "West Yellowstone (YELLWEST)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "12-17 Feb 2003",
+                "Habitat": "Developed",
+                "Lmin": "44.1 dBA",
+                "Lmax": "78.9 dBA",
+                "Max_ID": "?",
+                "Photo1": "YELLWEST.jpg",
+                "Acoustic_Summary": "A very early sound monitoring location, this system was adjacent to the West Yellowstone Entrance Station. As expected building utilities and oversnow vehicles were the dominant sound sources at this site.",
+                "Days": "5",
+                "Hours": "116",
+                "Sound_Level_All": "L90=46.8 dBA, L50=47.5 dBA, L10=49.0 dBA, Leq=50.1 dBA",
+                "Sound_Level_Day": "L90=47.3 dBA, L50=48.1 dBA, L10=55.7 dBA, Leq=53.0 dBA ",
+                "Photo1_Caption": "Sound monitor in trees adjacent to entrance station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.08952,
+                    44.65679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLWETH",
+                "Site_Name": "West Thumb (YELLWETH)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "4-11 Feb 2005 and 12-20 Jan 2006",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "<17.3 dBA",
+                "Lmax": "74.8 dBA",
+                "Max_ID": "",
+                "Photo1": "YELLWETH.jpg",
+                "Acoustic_Summary": "This monitor place under a lodgepole pine just off of a boardwalk recording interesting natural geothermal sounds, wind, and birds. Also heard were oversnow vehicles, voices, building utilities, and aircraft. ",
+                "Days": "15",
+                "Hours": "356",
+                "All_Hours": "All natural sounds (87%), Geothermal (51%), All non-natural sounds (48%), Wind (44%), Oversnow vehicles (27%), Building utilities (14%), Natural other (13%), People’s voices (10%), Birds (7%), Aircraft (3%)",
+                "Sound_Level_All": "L90=21.7 dBA, L50=23.1 dBA, L10=30.4 dBA, Leq=29.7 dBA",
+                "Sound_Level_Day": "L90=22.2 dBA, L50=26.2 dBA, L10=35.1 dBA, Leq=33.0 dBA ",
+                "Photo1_Caption": "Sound monitor under large conifer adjacent to boardwalk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.57093,
+                    44.41589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLWY31",
+                "Site_Name": "W. Yellowstone 3.1 (YELLWY31)",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "14 Jan-5 Oct 2005",
+                "Habitat": "Open Conifer Forest",
+                "Lmin": "<18.1 dBA",
+                "Lmax": "92.3 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLWY31.jpg",
+                "Acoustic_Summary": "Located 3 miles from the park’s west boundary, distant 2-stroke snowmobiles operating outside the park could often be heard during the winter. Road traffic was almost constant during the summer day. Insects, birds, the nearby Madison River, and wind were natural sounds heard here.",
+                "Days": "254",
+                "Hours": "6084",
+                "All_Hours": "All natural sounds (68%), All non-natural sounds (54%), All road vehicles (42%), Flowing water (36%), Birds (23%), Wind (13%), Oversnow vehicles (9%), Insects (5%), Aircraft (3%)",
+                "Winter Daytime Hours": "",
+                "Sound_Level_All": "L90=25.3 dBA, L50=29.9 dBA, L10=44.5 dBA, Leq=44.6 dBA",
+                "Sound_Level_Day": "L90=30.3 dBA, L50=41.7 dBA, L10=55.5 dBA, Leq=49.3 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road in regenerating pine forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.02554,
+                    44.6506
+                ]
+            }
+        }
+    ]
+}

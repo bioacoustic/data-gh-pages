@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTEBAFL",
+        "Site_Name": "Baseline Flats",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "20 Jul-5 Aug 2009",
+        "Habitat": "Sage Brush",
+        "Lmin": "21.1 dBA",
+        "Lmax": "79.5 dBA",
+        "Max_ID": "Thunder",
+        "Photo1": "GRTEBAFL_to_east.jpg",
+        "Photo2": "GRTEBAFL_to_west.jpg",
+        "Spectrogram1": "GRTEBAFL_2009_07_27_A_summer.jpg",
+        "Acoustic_Portrait": "Baseline_Flats",
+        "Acoustic_Summary": "This sage brush dominated location is just west of the Snake River in the shadow of the Tetons. During quiet periods the rapids on the Snake River are audible. Wind picks up in the summer afternoons along with insect activity. Birds are frequently heard. This area is directly under the flight path of aircraft approaching the Jackson Hole Airport from the north, but road vehicles on Highway 89 are heard more frequently though not as loudly.",
+        "Days": 15,
+        "Hours": 352,
+        "All_Hours": "All natural sources (95%), All non-natural sounds (52%), Flowing water (41%), Road vehicles (37%), Insects (35%), Wind (31%), Bird (30%), Aircraft (9%), Unknown motor sounds (7%), Rain (3%)",
+        "Summer": "All natural sources (96%), Insects (61%), All non-natural sounds (60%), Wind (47%), Road vehicles (39%), Bird (31%), Aircraft (15%), Unknown motor sounds (9%), Flowing water (8%), Rain (5%)",
+        "Sound_Level_All": "L90=30.3 dBA, L50=33.9 dBA, L10=40.6 dBA, Leq=41.8 dBA",
+        "Sound_Level_Day": "L90=30.3 dBA, L50=37.7 dBA, L10=47.1 dBA, Leq=46.5 dBA",
+        "Photo1_Caption":"Site at base of tree",
+        "Photo2_Caption":"Site under tree at base of bluff",
+        "Spectrogram1_Caption": "Note strong wind in 1400 hour, and aircraft starting at 0700. Snake River is a constant broadband sound."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.68366,
+          43.71888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTEGRTE",
+        "Site_Name": "Grand Teton Summit",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "18 Jul-14 Aug 2013",
+        "Habitat": "Rocky High Elevation",
+        "Lmin": "<15.8 dBA",
+        "Lmax": "~83.3 dBA",
+        "Max_ID": "Thunder",
+        "Photo1": "GRTEGRTE_northeast.jpg",
+        "Spectrogram1": "GRTEGRTE_2013_07_25_A.jpg",
+        "Spectrogram2": "GRTEGRTE_2013_08_10_A.jpg",
+        "Acoustic_Portrait": "Grand_Teton",
+        "Acoustic_Summary": "The sounds that characterize the summit of Grand Teton are thunderstorms as they roll across the Tetons, wind whistling through the rocks, the croak of a raven, buzzing insects, dripping water as the snowpack melt, and the cries of joy and then muffled chatter of climbers as they celebrate their success. The summit of Grand Teton is usually very quiet except for when the wind picks up or there are climbers talking. Most of the motor sounds are fairly quiet because of their distance and therefore are hard to identify. Aircraft are much louder than road vehicles, especially if they are flying nearby. Only a few hearty birds frequent the high peaks, most frequent of which are Common Ravens. Small rodents are present and their faint gnawing can be heard, but mostly at night. ",
+        "Days": 27,
+        "Hours": 645,
+        "All_Hours": "All non-natural sounds (38%), Wind (31%), Silence (31%), All motor sounds (28%), People’s Voices (17%), Aircraft (10%)",
+        "Summer": "All non-natural sounds (64%), All motor sounds (44%), People’s Voices (33%), Wind (24%), Aircraft (16%), Silence (13%)",
+        "Sound_Level_All": "L90~21.6 dBA, L50~22.8 dBA, L10~26.9 dBA, Leq~26.2 dBA",
+        "Sound_Level_Day": "L90~21.9 dBA, L50~23.7 dBA, L10~29.1 dBA, Leq~28.1 dBA",
+        "Photo1_Caption":"Site in rocks just to the right of fingertip on northeast side of summit",
+        "Spectrogram1_Caption": "The first two aircraft overflights were at 0510 and 0633. Successful climbers arrived at 0710 and were voices were audible until the afternoon. At 1700 a propeller plane flew by close to the summit.",
+        "Spectrogram2_Caption": "This day started out and continued windy, but this did not discourage climbers from summiting by 0730. A rodent gnawing close to the monitor can be seen at 1630."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.80237,
+          43.74125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTEGVCE",
+        "Site_Name": "Gros Ventre Campground East",
+        "Unit_Code": "GRTE",
+        "Season": "Multiple",
+        "Year": "30 Jun 2011-1 Aug 2012",
+        "Habitat": "Sage Brush",
+        "Lmin": "<15.2 dBA",
+        "Lmax": "99.1 dBA",
+        "Max_ID": "Thunder",
+        "Photo1": "GRTEGVCE_southwest.jpg",
+        "Spectrogram1": "GRTEGVCE_2012_01_18_A.jpg",
+        "Spectrogram2": "GRTEGVCE_2012_04_11_A.jpg",
+        "Spectrogram3": "GRTEGVCE_2011_07_30_A.jpg",
+        "Spectrogram4":  "GRTEGVCE_2011_10_02_A.jpg",
+        "Acoustic_Portrait": "Gros_Ventre_Campground",
+        "Acoustic_Summary": "The predominant sound at Gros Ventre Campground East is the rushing Gros Ventre River, louder during spring runoff, but audible year-round. This sage brush area just east of the Gros Ventre Campground is home to many vocalizing birds and insects during the summer days, and coyotes and Common Nighthawks during the night. Road vehicles and aircraft are also commonly heard.",
+        "Days": 357,
+        "Hours": "8,566",
+        "All_Hours": "All natural sources (90%), Flowing water (49%), All non-natural sounds (47%), Wind (30%), Road vehicles (28%), Bird (22%), Insects (13%), Unknown motor sounds (12%), Aircraft (7%)",
+        "Summer": "All natural sounds (96%), All non-natural sounds (74%), Insects (65%), All Road Vehicles (35%), Birds (35%), Wind (33%), Unknown motor sounds (25%), Flowing Water (23%), Aircraft (17%)",
+        "Winter": "All natural sounds (64%), All non-natural sounds (59%), All Road Vehicles (31%), Flowing Water (28%), Wind (27%), Aircraft (13%), Unknown motor sounds (13%), Birds (10%), Construction/Hwy Equipment (10%), Snowfall (5%), Silence (2%)",
+        "Sound_Level_All": "L90=26.5 dBA, L50=30.1 dBA, L10=35.6 dBA, Leq=34.4 dBA",
+        "Sound_Level_Day": "L90=24.8 dBA, L50=28.9 dBA, L10=36.5 dBA, Leq=36.3 dBA",
+        "Photo1_Caption":"Site by rock pile; white RV campers can be seen in background",
+        "Spectrogram1_Caption": "A very windy winter day obscured most other sounds.",
+        "Spectrogram2_Caption": "The migrant bird’s morning chorus started just before 0600 this day. Wind picked up after noon. The Gros Ventre River rapids could be heard all day.",
+        "Spectrogram3_Caption": "The loudest sounds on this summer day were jets and propeller plane overflights. The Gros Ventre River was constantly heard and wind picked up at 1450.",
+        "Spectrogram4_Caption": "A low flying helicopter overflew this site several times starting at 1625 to 1925."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.65372,
+          43.62244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTEJLDI",
+        "Site_Name": "Jackson Lake Dollar Island",
+        "Unit_Code": "GRTE",
+        "Season": "Multiple",
+        "Year": "23 Feb 2011-13 Feb 2012",
+        "Habitat": "Open Conifer Forest",
+        "Lmin": "<13.4 dBA",
+        "Lmax": "85.3 dBA",
+        "Max_ID": "Sandhill Crane",
+        "Photo1": "GRTEJLDI_summer.jpg",
+        "Photo2": "GRTEJLDI_winter.jpg",
+        "Spectrogram1": "GRTEJLDI_2011_02_09_A.jpg",
+        "Spectrogram2": "GRTEJLDI_2011_05_05_A.jpg",
+        "Spectrogram3": "GRTEJLDI_2011_07_05_A.jpg",
+        "Spectrogram4": "GRTEJLDI_2011_10_13_A.jpg",
+        "Acoustic_Portrait": "Jackson_Lake_Dollar_Island",
+        "Acoustic_Summary": "This site on a small island off of the larger Elk Island is in the south central park of Jackson Lake. The soundscape includes motorboat noise and human voices from those boats during the summer.  Wind and waves, birds and insects, and silence are common occurrences, too.  During the winter there is also a surprising amount of human voices and ice augers audible as people are fishing on the frozen lake. A few snowmobiles are heard as fishers access their fishing spots. Aircraft overflights and distant road vehicles are also regularly audible year-round.",
+        "Days": 295,
+        "Hours": "7,080",
+        "All_Hours": "All natural sounds (71%), Wind (37%), Waves (26%), All non-natural sounds (22%), Silence (21%), Birds (14%), Watercraft (9%), Aircraft (5%), Snowfall or rain (5%), Unknown motor sounds (4%), People’s Voices (2%), Insects (2%)",
+        "Summer": "All natural sounds (87%), All non-natural sounds (69%), Watercraft (63%), Birds (41%), Insects (18%), Wind (14%), Aircraft (3%), Unknown motor sounds (3%), Mammals (1%)",
+        "Winter": "All natural sounds (71%), Wind (53%), All non-natural sounds (24%), Snowfall (20%), Silence (15%), Birds (12%), People’s voices (10%), Aircraft (7%), All Road Vehicles (4%), Unknown motor sounds (4%), Oversnow vehicles (1%)",
+        "Sound_Level_All": "L90=19.1 dBA, L50=23.2 dBA, L10=30.3 dBA, Leq=29.0 dBA",
+        "Sound_Level_Day": "L90=20.0 dBA, L50=25.4 dBA, L10=33.4 dBA, Leq=32.1 dBA",
+        "Photo1_Caption":"Dollar Island site on bluff. Photo looking north",
+        "Photo2_Caption":"Dollar Island site on top of bluff. Photo taken south from Jackson Lake",
+        "Spectrogram1_Caption": "A very quiet winter day, interrupted occasionally by high flying jets.",
+        "Spectrogram2_Caption": "The spring bird’s morning chorus started at 0525. Wind became strong after 1600.",
+        "Spectrogram3_Caption": "Motorboats on Jackson Lake started about 0750 and were heard regularly until almost 1900.",
+        "Spectrogram4_Caption": "A low flying propeller plane circled Dollar Island from 1230 to 1300. Wind started and ended the day."
+     },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6656,
+          43.87085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTELOBE",
+        "Site_Name": "Lower Berry Cabin",
+        "Unit_Code": "GRTE",
+        "Season": "Multiple",
+        "Year": "17 Feb 2012-9 Mar 2013",
+        "Habitat": "Open Mixed Forest",
+        "Lmin": "<13.7 dBA",
+        "Lmax": "96.0 dBA",
+        "Max_ID": "Thunder",
+        "Photo1": "GRTELOBE_southeast.jpg",
+        "Photo2": "GRTELOBE_northwest.jpg",
+        "Spectrogram1": "GRTELOBE_2012_02_27_A.jpg",
+        "Spectrogram2": "GRTELOBE_2012_06_05_A.jpg",
+        "Spectrogram3": "GRTELOBE_2012_08_08_A.jpg",
+        "Spectrogram4": "GRTELOBE_2012_10_24_A.jpg",
+        "Acoustic_Portrait": "Lower_Berry",
+        "Acoustic_Summary": "This site near the west shore of Jackson Lake is characterized by the sounds of nature, including birds, wind, flowing water, and insects during the summer. The sounds of elk foraging and bugling and red squirrels chattering are frequently heard. Distant sounds of watercraft are audible during the summer and high flying aircraft and road vehicles from across the lake are heard year-round. This area is at the edge of recommended wilderness and its soundscape reflects that with extended periods of silence.",
+        "Days": 352,
+        "Hours": "8,435",
+        "All_Hours": "All natural sounds (86%), Birds (40%), Wind (38%), Flowing water (33%), All non-natural sounds (19%), Silence (11%), Insects (10%), Snowfall or rain (7%), Mammals (6%), Unknown motor sounds (6%), Watercraft (5%), Road vehicles (5%), Aircraft (4%)",
+        "Summer": "All natural sounds (100%), Birds (78%), All non-natural sounds (51%), Insects (51%), Wind (46%), Watercraft (25%), Unknown motor sounds (16%), Flowing water (12%), Mammals (10%), Aircraft (5%), Rain (4%)",
+        "Winter": "All natural sounds (68%), Wind (55%), Silence (26%), Birds (14%), Flowing water (13%), All non-natural sounds (12%), Snowfall or rain (10%), Aircraft (6%), All Road Vehicles (4%), Mammals (3%), Unknown motor sounds (2%)",
+        "Sound_Level_All": "L90=22.7 dBA, L50=25.8 dBA, L10=29.9 dBA, Leq=28.4 dBA",
+        "Sound_Level_Day": "L90=23.1 dBA, L50=26.9 dBA, L10=32.4 dBA, Leq=30.9 dBA",
+        "Photo1_Caption":"Photo taken from site looking southeast over Jackson Lake",
+        "Photo2_Caption":"Photo taken to the west-northwest",
+        "Spectrogram1_Caption": "A typical quiet winter day, except for nearby propeller plane at 1535 and 1715, and quite a few high flying jets",
+        "Spectrogram2_Caption": "This spring day started and ended windy with lots of bird songs starting at just after 0400",
+        "Spectrogram3_Caption": "This mid-summer day shows the sound of Berry Creek audible throughout the day, along with some gusting wind, and multiple distant motorized sounds ",
+        "Spectrogram4_Caption": "By  fall, the site is starting to quiet down for the long winter, the solitude interrupted by high flying jets and nearby animals."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.70689,
+          43.99956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTEMWR1",
+        "Site_Name": "Moose Wilson Road 1",
+        "Unit_Code": "GRTE",
+        "Season": "Multiple",
+        "Year": "2 Nov 2012-31 Oct 2013",
+        "Habitat": "Conifer Forest",
+        "Lmin": "<15.0 dBA",
+        "Lmax": "96.1 dBA",
+        "Max_ID": "Chainsaw",
+        "Photo1": "GRTEMWR1_from_road.jpg",
+        "Photo2": "GRTEMWR1_tree.jpg",
+        "Spectrogram1": "GRTEMWR1_2012_12_26_A_Winter.jpg",
+        "Spectrogram2": "GRTEMWR1_2013_05_04_A_Spring.jpg",
+        "Spectrogram3": "GRTEMWR1_2013_07_04_A_Summer.jpg",
+        "Spectrogram4": "GRTEMWR1_2013_10_04_A_Autumn.jpg",
+        "Acoustic_Portrait": "Moose_Wilson_Road",
+        "Acoustic_Summary": "Sounds that characterize this area include creaking trees when windy, distant sounds of flowing water when otherwise quiet, and motorized sounds originating from the Jackson Hole Airport and road vehicles. During the winter when the nearby Moose Wilson Road is closed, motorized sounds are quieter and the sounds of recreational skiers are frequent. In the summer the nearby road dominates the soundscape during the day. Birds sing and red squirrels chatter, and in the autumn the forest echoes with the sounds of elk bugling.",
+        "Days": 357,
+        "Hours": "8,545",
+        "All_Hours": "All natural sources (86%), All non-natural sounds (54%), Flowing water (44%), Bird (26%), Unknown motor sounds (24%), Wind (24%), Road vehicles (21%), Aircraft (10%), Mammals (8%), Insects (3%), Silence (1%), People’s Voices (1%)",
+        "Summer": "All non-natural sounds (88%), All natural sounds (86%), All Road Vehicles (73%), Birds (71%), Wind (24%), Flowing Water (15%), Insects (13%), Aircraft (12%), Unknown motor sounds (8%), Mammals (6%)",
+        "Winter": "All non-natural sounds (66%), All natural sounds (75%), All Road Vehicles (2%), Birds (15%), Unknown motor sounds (43%), Wind (33%), Flowing Water (22%), Mammals (10%), Aircraft (19%), Silence (3%)",
+        "Sound_Level_All": "L90=25.7 dBA, L50=28.8 dBA, L10=33.9 dBA, Leq=33.4 dBA",
+        "Sound_Level_Day": "L90=26.2 dBA, L50=31.7 dBA, L10=39.9 dBA, Leq=38.0 dBA",
+        "Photo1_Caption":"Site 100 feet from road in trees; photo taken on road",
+        "Photo2_Caption":"Microphone in tree",
+        "Spectrogram1_Caption": "The day after Christmas with plenty of aircraft coming and going from the Jackson Hole Airport",
+        "Spectrogram2_Caption": "A spring day with wind and singing birds starting at 0545",
+        "Spectrogram3_Caption": "Summer traffic on the Moose Wilson Road occurs in every hour other than 0100",
+        "Spectrogram4_Caption": "Elk are seen bugling first during the early morning  hours, but also into the evening"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.76908,
+          43.63567
+        ]
+      }
+    }
+  ]
+}
